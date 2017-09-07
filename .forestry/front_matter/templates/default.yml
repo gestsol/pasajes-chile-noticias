@@ -18,28 +18,22 @@ fields:
   type: datetime
   hidden: false
   default: 2017-02-15 10:32:59 +0000
-- name: banner
+  config:
+    date_format: DD/MM/YYYY
+    time_format: HH:mm A
+- type: file
   label: Banner
-  type: text
-  hidden: false
-  default: img/indiagate1.jpg
+  name: banner
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
-  default:
-  - Asia
-  - India
-  - Pune
-  - TheTravelBug
+  default: []
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
-  default:
-  - ganesh chaturthi in pune
-  - pune festivals
-  - pune travel
+  default: []
 - name: draft
   label: Draft
   type: boolean
