@@ -9,5 +9,4 @@ title = "Quinto Post"
 +++
 
 
-infoooooo<!--more-->
-
+Informacion del quinto post<!--more-->
