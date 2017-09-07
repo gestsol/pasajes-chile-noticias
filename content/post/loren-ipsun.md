@@ -9,8 +9,6 @@ title = "#CONCURSO 💥"
 +++
 
 
-![](/uploads/2017/09/07/concurso.jpeg)
-
 #CONCURSO 💥
 
 ¡#PasajesChile te regala una estadía doble por 2 noches en el Hotel Manquehue Puerto Montt 😱
@@ -32,5 +30,7 @@ title = "#CONCURSO 💥"
 ✔️Fecha del concurso: desde el 5 de septiembre al 30 de septiembre de 2017. Los ganadores se anunciarán el 4 de octubre de 2017.
 
 Ingresa a 👉 www.pasajeschile.cl para conocer todas las bases y condiciones del concurso.
+
+![](/uploads/2017/09/07/concurso.jpeg)
 <!--more-->
 
