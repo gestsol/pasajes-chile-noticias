@@ -13,7 +13,7 @@ canonifyURLs = true
 [params]
     # Tell me who you are
 
-    site_description = "Travel theme for Hugo with Slider"
+    site_description = "El portal donde te daremos toda la informacíon para que viajes cuando quieras y como quieras. Tu decides..."
     copyright  = "Copyright"
     avatar = "css/images/avatar.png"
     logo = "css/images/logo.png"
