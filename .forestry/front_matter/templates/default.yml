@@ -25,6 +25,7 @@ fields:
 - type: file
   label: Banner
   name: banner
+  default: "/banners/placeholder.png"
 - name: categories
   label: Categories
   type: tag_list
