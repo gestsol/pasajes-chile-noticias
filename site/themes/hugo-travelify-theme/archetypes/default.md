@@ -1,6 +1,6 @@
 ---
 title: 
-author: aladybird
+author: Pasajes Chile
 date: 2017-02-15T10:32:59+00:00
 banner: img/indiagate1.jpg
 categories:
@@ -17,8 +17,4 @@ draft: true
 ---
 
 <!--more-->
-**Varied Topics, One Festival:**
-
-
-**Related Posts:**
 
