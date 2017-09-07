@@ -1,13 +1,15 @@
 +++
 author = "Pasajes Chile"
-banner = "/uploads/2017/09/07/concurso.jpeg"
-categories = []
+banner = "/banners/placeholder.png"
+categories = ["concursos"]
 date = "2017-09-07T12:24:06+00:00"
-tags = []
+tags = ["pasajeschile", "concurso", "fotografia"]
 title = "#CONCURSO 💥"
 
 +++
 
+
+![](/uploads/2017/09/07/concurso.jpeg)
 
 #CONCURSO 💥
 
@@ -30,5 +32,5 @@ title = "#CONCURSO 💥"
 ✔️Fecha del concurso: desde el 5 de septiembre al 30 de septiembre de 2017. Los ganadores se anunciarán el 4 de octubre de 2017.
 
 Ingresa a 👉 www.pasajeschile.cl para conocer todas las bases y condiciones del concurso.
-
 <!--more-->
+
