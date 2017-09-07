@@ -1,6 +1,6 @@
 +++
 author = "Pasajes Chile"
-banner = "/banners/placeholder.png"
+banner = "/uploads/2017/09/07/concurso.jpeg"
 categories = []
 date = "2017-09-07T12:24:06+00:00"
 tags = []
