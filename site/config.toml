@@ -1,12 +1,12 @@
 baseURL = "/"
-title = "Travelify"
-subtitle = "Travel theme for Hugo with Slider"
-languageCode = "en-us"
+title = "Pasajes Chile Noticias"
+subtitle = "Sitio Oficial de Pasajes Chile Noticias"
+languageCode = "es-es"
 # preservetaxonomynames = true
 themesDir = "themes"
 theme = "hugo-travelify-theme"
-DisqusShortname = "nikimonikado"
-GoogleAnalytics = "UA-68204765-1"
+DisqusShortname = ""
+GoogleAnalytics = ""
 canonifyURLs = true
 # rssURI = "feed/" #deprecated feature
     
@@ -20,7 +20,7 @@ canonifyURLs = true
     disable_mathjax = false # set to true to disable MathJax
 
     # Format dates with Go's time formatting
-    date_format = "January 02, 2006"
+    date_format = "01 January, 2017"
 
     # Add custom assets with their paths relative to the static folder
     custom_css = []
@@ -50,24 +50,24 @@ canonifyURLs = true
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "nikimonikado"
-    flickr          = "nikimonikado"
-    instagram       = "nikimonikado"
-    youtube         = "nikimonikado"
-    vimeo           = "nikimonikado"
-    tumblr          = "nikimonikado"
-    linkedin        = "nikimonikado"
-    pinterest       = "nikimonikado"
-    googleplus      = "nikimonikado"
-    facebook        = "nikimonikado"
-    twitter         = "nikimonikado"
+    github          = ""
+    flickr          = ""
+    instagram       = "pasajeschile"
+    youtube         = "pasajeschile"
+    vimeo           = "pasajeschile"
+    tumblr          = ""
+    linkedin        = ""
+    pinterest       = ""
+    googleplus      = "pasajeschile"
+    facebook        = "pasajeschile"
+    twitter         = "pasajeschile"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
     categories = true
     tags = true
-    tag_cloud = true
+    tag_cloud = false
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
     search = true
 
