@@ -4,12 +4,31 @@ banner = "/uploads/2017/09/07/concurso.jpeg"
 categories = []
 date = "2017-09-07T12:24:06+00:00"
 tags = []
-title = "Loren Ipsum"
+title = "#CONCURSO 💥"
 
 +++
 
 
-¿Qué es Lorem Ipsum?
+#CONCURSO 💥
 
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.<!--more-->
+¡#PasajesChile te regala una estadía doble por 2 noches en el Hotel Manquehue Puerto Montt 😱
 
+👇
+
+¿Cómo participar?
+
+✔️Debes capturar una foto que refleje un paisaje de Chile, atractivos turísticos, flora y fauna; y además especificar el lugar en el que fue capturada la fotografía.
+
+✔️Capturar 1 fotografía (máximo) y publicarla en tu cuenta de Instagram.
+
+✔️En la descripción de la foto debes colocar el hashtag #SoyPasajesChile
+
+✔️El participante debe etiquetar a 20 amigos en la publicación y solicitarle que voten por él, y que sigan el perfil de PasajesChile en Instagram o en Facebook (@pasajeschile)
+
+✔️Los 3 participantes que más “Me gusta” o “Likes” reciban en su fotografía, ganarán el concurso “Un fin de semana dorado” con Pasajes Chile.
+
+✔️Fecha del concurso: desde el 5 de septiembre al 30 de septiembre de 2017. Los ganadores se anunciarán el 4 de octubre de 2017.
+
+Ingresa a 👉 www.pasajeschile.cl para conocer todas las bases y condiciones del concurso.
+
+<!--more-->
