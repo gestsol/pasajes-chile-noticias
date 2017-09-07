@@ -16,5 +16,4 @@ draft: true
 
 ---
 
-<!--more-->
 
