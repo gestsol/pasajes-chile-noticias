@@ -35,7 +35,7 @@ youtube = "Follow us on YouTube"
 [widgets.categories]
 title = "Categorias"
 [widgets.recent_articles]
-title = "Recents"
+title = "Recientes"
 [widgets.tag_cloud]
 min_count = 2
 title = "Tag cloud"
