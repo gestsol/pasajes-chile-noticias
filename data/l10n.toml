@@ -18,7 +18,7 @@ follow_button = "Like Us"
 posts = ""
 tags = ["Tags"]
 [search]
-placeholder = "Search"
+placeholder = "Buscar"
 [social]
 RSS = "Subscribe to our feed"
 facebook = "Follow us on Facebook"
