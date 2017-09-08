@@ -11,8 +11,8 @@ older = "←"
 subtitle = "The content you're looking for doesn't seem to exist."
 title = "Error 404 - Page NOT Found"
 [pagination]
-next = "Next"
-previous = "Previous"
+next = "Siguiente"
+previous = "Anterior"
 [profile]
 follow_button = "Like Us"
 posts = ""
