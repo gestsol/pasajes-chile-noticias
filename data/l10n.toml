@@ -40,4 +40,4 @@ title = "Recientes"
 min_count = 2
 title = "Tag cloud"
 [widgets.tags]
-title = "Tags"
+title = "Etiquetas"
