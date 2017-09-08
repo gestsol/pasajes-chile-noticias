@@ -33,7 +33,7 @@ twitter = "Follow us on Twitter"
 vimeo = "Follow us on Vimeo"
 youtube = "Follow us on YouTube"
 [widgets.categories]
-title = "Categories"
+title = "Categorias"
 [widgets.recent_articles]
 title = "Recents"
 [widgets.tag_cloud]
