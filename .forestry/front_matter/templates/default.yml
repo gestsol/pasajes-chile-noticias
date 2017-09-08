@@ -1,8 +1,8 @@
 ---
 pages:
-- post/cuarto-post.md
-- post/quinto-post.md
 - post/loren-ipsun.md
+- post/quinto-post.md
+- post/cuarto-post.md
 hide_body: false
 fields:
 - name: title
