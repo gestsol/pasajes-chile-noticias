@@ -7,17 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>Copyright PasajesChile 2017</copyright>
-    <lastBuildDate>Thu, 07 Sep 2017 11:51:12 +0000</lastBuildDate>
     <atom:link href="https://gestsol.github.io/pasajes-chile-noticias/categories/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Asia</title>
-      <link>https://gestsol.github.io/pasajes-chile-noticias/categories/asia/</link>
-      <pubDate>Thu, 07 Sep 2017 11:51:12 +0000</pubDate>
-      
-      <guid>https://gestsol.github.io/pasajes-chile-noticias/categories/asia/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Concursos</title>
@@ -25,15 +15,6 @@
       <pubDate>Thu, 07 Sep 2017 12:24:06 +0000</pubDate>
       
       <guid>https://gestsol.github.io/pasajes-chile-noticias/categories/concursos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>India</title>
-      <link>https://gestsol.github.io/pasajes-chile-noticias/categories/india/</link>
-      <pubDate>Thu, 07 Sep 2017 11:51:12 +0000</pubDate>
-      
-      <guid>https://gestsol.github.io/pasajes-chile-noticias/categories/india/</guid>
       <description></description>
     </item>
     
@@ -52,24 +33,6 @@
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
       <guid>https://gestsol.github.io/pasajes-chile-noticias/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pune</title>
-      <link>https://gestsol.github.io/pasajes-chile-noticias/categories/pune/</link>
-      <pubDate>Thu, 07 Sep 2017 11:51:12 +0000</pubDate>
-      
-      <guid>https://gestsol.github.io/pasajes-chile-noticias/categories/pune/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thetravelbug</title>
-      <link>https://gestsol.github.io/pasajes-chile-noticias/categories/thetravelbug/</link>
-      <pubDate>Thu, 07 Sep 2017 11:51:12 +0000</pubDate>
-      
-      <guid>https://gestsol.github.io/pasajes-chile-noticias/categories/thetravelbug/</guid>
       <description></description>
     </item>
     

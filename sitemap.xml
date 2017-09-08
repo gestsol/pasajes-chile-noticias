@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/post/cuarto-post/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/about/</loc>
     <lastmod>2017-09-06T09:16:07-03:00</lastmod>
   </url>
@@ -38,14 +33,7 @@
   </url>
   
   <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/categories/asia/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/categories/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,12 +56,6 @@
   </url>
   
   <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/ganesh-chaturthi-in-pune/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
@@ -88,12 +70,6 @@
   <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/categories/india/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,24 +116,6 @@
   </url>
   
   <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/categories/pune/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/pune-festivals/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/pune-travel/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/</loc>
     <lastmod>2017-09-07T12:24:06+00:00</lastmod>
     <priority>0</priority>
@@ -166,12 +124,6 @@
   <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/categories/thetravelbug/</loc>
-    <lastmod>2017-09-07T11:51:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
