@@ -1,9 +1,9 @@
 [articles]
-comments = "Comments"
-read_more = "Read More"
+comments = "Comentarios"
+read_more = "Leer Mas"
 readingtime = "minute read"
-share = "Share this:"
-words = "words"
+share = "Compartir:"
+words = "palabras"
 [articles.linked_posts]
 newer = "→"
 older = "←"
