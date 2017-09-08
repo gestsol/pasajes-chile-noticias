@@ -17,7 +17,7 @@ url = "/about/"
 weight = 10
 [params]
 avatar = "css/images/avatar.png"
-copyright = "Copyright"
+copyright = "Copyright PasajesChile 2017"
 custom_css = []
 custom_js = []
 date_format = "01 January, 2017"
