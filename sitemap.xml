@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/post/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/categories/</loc>
     <priority>0</priority>
   </url>
@@ -46,18 +41,6 @@
   </url>
   
   <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/</loc>
     <lastmod>2017-09-07T12:24:06+00:00</lastmod>
     <priority>0</priority>
@@ -76,26 +59,8 @@
   </url>
   
   <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/</loc>
     <lastmod>2017-09-07T12:24:06+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
