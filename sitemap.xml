@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/post/hugo-travelify-theme-features/</loc>
-    <lastmod>2016-06-28T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/post/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
@@ -70,18 +65,6 @@
   <url>
     <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/tags/ipsum/</loc>
-    <lastmod>2016-06-28T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gestsol.github.io/pasajes-chile-noticias/categories/lorem/</loc>
-    <lastmod>2016-06-28T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
