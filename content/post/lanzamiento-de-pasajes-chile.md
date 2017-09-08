@@ -2,14 +2,14 @@
 author = "Pasajes Chile"
 banner = "/banners/placeholder.png"
 categories = []
-date = "2017-09-08T18:06:01+00:00"
+date = "2017-09-08T18:06:01Z"
 tags = []
 title = "Lanzamiento de Pasajes Chile"
 
 +++
 
 
-el contenido va aqui
+El contenido va aqui
 
 ![](/banners/spain6-1018x460.jpg)
 
