@@ -21,13 +21,14 @@ fields:
   config:
     required: true
 - name: date
-  label: Date
+  label: Fecha
   type: datetime
   hidden: false
   default: 2017-02-15 10:32:59 +0000
   config:
     date_format: DD/MM/YYYY
     time_format: HH:mm A
+  description: Fecha de la publicación
 - type: file
   label: Banner
   name: banner
