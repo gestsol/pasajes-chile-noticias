@@ -13,10 +13,13 @@ fields:
   config:
     required: true
 - name: author
-  label: Author
+  label: Autor
   type: text
   hidden: false
   default: Pasajes Chile
+  description: Quién publica?
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
