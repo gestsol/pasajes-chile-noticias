@@ -30,9 +30,11 @@ fields:
     time_format: HH:mm A
   description: Fecha de la publicación
 - type: file
-  label: Banner
+  label: Imagen destacada
   name: banner
   default: "/banners/placeholder.png"
+  description: "Ésta imagen se mostrará en la página de Inicio, tanto en la cabecera
+    del artículo como en el carrusel de los 6 últimos artículos publicados"
 - name: categories
   label: Categories
   type: tag_list
