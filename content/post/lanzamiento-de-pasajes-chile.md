@@ -9,7 +9,9 @@ title = "Lanzamiento de Pasajes Chile"
 +++
 
 
-El contenido va aqui
+El contenido va aqui.
+
+Aqui la imagen
 
 ![](/banners/spain6-1018x460.jpg)
 
