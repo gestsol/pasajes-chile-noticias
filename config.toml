@@ -30,7 +30,7 @@ num_features = 6
 [params.widgets]
 archives = false
 categories = true
-recent_articles = false
+recent_articles = true
 search = true
 tag_cloud = false
 tags = true
