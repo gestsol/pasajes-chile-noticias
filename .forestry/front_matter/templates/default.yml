@@ -42,10 +42,11 @@ fields:
   default: []
   description: Pertenece el artículo a alguna categoría? Cuales?
 - name: tags
-  label: Tags
+  label: Etiquetas
   type: tag_list
   hidden: false
   default: []
+  description: El espacio preciso para los Tags. Añade nomas ;-)
 - name: draft
   label: Draft
   type: boolean
