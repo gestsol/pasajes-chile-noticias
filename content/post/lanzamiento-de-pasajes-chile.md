@@ -1,6 +1,6 @@
 +++
 author = "Pasajes Chile"
-banner = "/banners/placeholder.png"
+banner = "/banners/Spain-Plaza-de-Cibeles-Madrid-1018x460.jpg"
 categories = []
 date = "2017-09-08T18:06:01Z"
 tags = []
