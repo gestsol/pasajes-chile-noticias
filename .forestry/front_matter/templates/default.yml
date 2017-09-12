@@ -36,10 +36,11 @@ fields:
   description: "Ésta imagen se mostrará en la página de Inicio, tanto en la cabecera
     del artículo como en el carrusel de los 6 últimos artículos publicados"
 - name: categories
-  label: Categories
+  label: Categorias
   type: tag_list
   hidden: false
   default: []
+  description: Pertenece el artículo a alguna categoría? Cuales?
 - name: tags
   label: Tags
   type: tag_list
