@@ -461,7 +461,7 @@ img#wpstats {
 	text-align: center;
 	margin: 0;
 	line-height: 20px;
-	display: inline-block;
+	display: block;
 	text-decoration: none;
 	padding: 4px 12px;
 	text-transform: lowercase;
@@ -811,6 +811,7 @@ a.more-link:hover {
 	display: none;
 }
 .featured-text {
+	visibility: hidden;
 	position: absolute;
 	top: 55px;
 	right: 30px;
@@ -1239,7 +1240,6 @@ thead th,tfoot th,thead tr:hover th,tfoot tr:hover th {
 	margin: 24px 0;
 	margin: 1.7rem 0;
 	border-bottom: 2px dashed #eaeaea;
-}
 }
  .comments-area article header {
 	margin: 0 0 2.4rem;
