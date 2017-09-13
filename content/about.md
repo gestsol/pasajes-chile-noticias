@@ -6,6 +6,7 @@ menu:
   main:
     name: ACERCA
     weight: 1
+draft: true
 
 ---
 ## This is our sample Markdown content.
