@@ -17,7 +17,7 @@ copyright = "Copyright PasajesChile 2017"
 custom_css = []
 custom_js = []
 date_format = "01 January, 2017"
-disable_mathjax = false
+disable_mathjax = true
 logo = "css/images/logo.png"
 site_description = "El portal donde te daremos toda la informacíon para que viajes cuando quieras y como quieras. Tu decides..."
 [params.slider]
