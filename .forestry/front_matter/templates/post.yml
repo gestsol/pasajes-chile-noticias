@@ -1,9 +1,9 @@
 ---
 pages:
-- concursos.md
 - post/quinta.md
 - post/lanzamiento-de-pasajes-chile.md
 - post/loren-ipsun.md
+- concursos.md
 hide_body: false
 fields:
 - name: title
