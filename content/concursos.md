@@ -1,12 +1,12 @@
 +++
 author = "Pasajes Chile"
-banner = "/banners/placeholder.png"
+banner = "/banners/featured-5.jpg"
 categories = []
 date = "2017-09-13T09:46:11+00:00"
-draft = true
 tags = []
 title = "CONCURSOS"
 
 +++
 
 
+Contenido de la pagina CONCURSOS
