@@ -9,4 +9,4 @@ title = "Tercer articulo de noticias Chile"
 +++
 
 
-Con este artículo se da a conocer la tercera publicación del sitio
+Con este artículo se da a conocer la tercera publicación del sitio por tercera vez
