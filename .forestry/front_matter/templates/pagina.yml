@@ -1,0 +1,31 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Titulo
+  name: title
+  description: Cual es el título de la página?
+  config:
+    required: true
+- type: text
+  label: Autor
+  name: author
+  description: Quién publica?
+  config:
+    required: true
+- type: datetime
+  label: Fecha
+  name: date
+  description: Fecha de la publicación
+  config:
+    date_format: DD/MM/YYYY
+    time_format: HH:mm A
+  default: Invalid date
+- type: tag_list
+  label: Categoria
+  name: categories
+  description: Pertenece la página a alguna categoría? Cuales?
+- type: tag_list
+  label: Etiquetas
+  name: tags
+  description: El espacio preciso para los Tags. Añade nomas ;-)
