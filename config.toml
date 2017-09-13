@@ -28,7 +28,7 @@ site_description = "El portal donde te daremos toda la informacíon para que via
 enable = true
 num_features = 6
 [params.widgets]
-archives = true
+archives = false
 categories = true
 recent_articles = true
 search = true
