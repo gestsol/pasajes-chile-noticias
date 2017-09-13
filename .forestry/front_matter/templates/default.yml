@@ -1,9 +1,8 @@
 ---
 pages:
-- post/el-cuarto.md
-- post/tercer-articulos-de-noticias-chile.md
 - post/lanzamiento-de-pasajes-chile.md
 - post/loren-ipsun.md
+- concursos.md
 hide_body: false
 fields:
 - name: title
