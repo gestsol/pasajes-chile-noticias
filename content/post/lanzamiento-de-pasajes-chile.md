@@ -7,8 +7,6 @@ tags = []
 title = "Lanzamiento de Pasajes Chile"
 
 +++
-
-
 El contenido va aqui.
 
 Aqui la imagen:
