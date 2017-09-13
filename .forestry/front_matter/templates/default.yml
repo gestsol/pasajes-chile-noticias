@@ -6,7 +6,7 @@ pages:
 hide_body: false
 fields:
 - name: title
-  label: Titulo
+  label: Title
   type: text
   hidden: false
   default: ''
@@ -14,7 +14,7 @@ fields:
   config:
     required: true
 - name: author
-  label: Autor
+  label: Author
   type: text
   hidden: false
   default: Pasajes Chile
@@ -22,7 +22,7 @@ fields:
   config:
     required: true
 - name: date
-  label: Fecha
+  label: Date
   type: datetime
   hidden: false
   default: 2017-02-15 10:32:59 +0000
@@ -31,19 +31,19 @@ fields:
     time_format: HH:mm A
   description: Fecha de la publicación
 - type: file
-  label: Imagen destacada
+  label: Banner
   name: banner
   default: "/banners/placeholder.png"
   description: "Ésta imagen se mostrará en la página de Inicio, tanto en la cabecera
     del artículo como en el carrusel de los 6 últimos artículos publicados"
 - name: categories
-  label: Categorias
+  label: Category
   type: tag_list
   hidden: false
   default: []
   description: Pertenece el artículo a alguna categoría? Cuales?
 - name: tags
-  label: Etiquetas
+  label: Tags
   type: tag_list
   hidden: false
   default: []
