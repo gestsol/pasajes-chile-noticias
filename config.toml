@@ -8,8 +8,8 @@ theme = "hugo-travelify-theme"
 themesDir = "themes"
 title = "Pasajes Chile Noticias"
 [[menu.main]]
-name = "About"
-url = "/about/"
+name = "INICIO"
+url = "/"
 weight = 1
 [params]
 avatar = "css/images/avatar.png"
