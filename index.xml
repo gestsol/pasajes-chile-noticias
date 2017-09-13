@@ -79,14 +79,5 @@ Aqui la imagen:</description>
 &lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>About</title>
-      <link>https://gestsol.github.io/pasajes-chile-noticias/about/</link>
-      <pubDate>Wed, 06 Sep 2017 09:16:07 -0300</pubDate>
-      
-      <guid>https://gestsol.github.io/pasajes-chile-noticias/about/</guid>
-      <description> This is our sample Markdown content. </description>
-    </item>
-    
   </channel>
 </rss>
