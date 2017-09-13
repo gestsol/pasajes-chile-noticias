@@ -2,13 +2,11 @@
 author = "Pasajes Chile"
 banner = "/banners/placeholder.png"
 categories = ["concursos"]
-date = "2017-09-07T12:24:06+00:00"
+date = "2017-09-07T12:24:06Z"
 tags = ["pasajeschile", "concurso", "fotografia"]
 title = "#CONCURSO 💥"
 
 +++
-
-
 #CONCURSO 💥
 
 ¡#PasajesChile te regala una estadía doble por 2 noches en el Hotel Manquehue Puerto Montt 😱

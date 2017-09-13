@@ -8,13 +8,9 @@ theme = "hugo-travelify-theme"
 themesDir = "themes"
 title = "Pasajes Chile Noticias"
 [[menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 20
-[[menu.main]]
 name = "About"
 url = "/about/"
-weight = 10
+weight = 1
 [params]
 avatar = "css/images/avatar.png"
 copyright = "Copyright PasajesChile 2017"
