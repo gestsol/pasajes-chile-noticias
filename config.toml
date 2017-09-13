@@ -1,6 +1,6 @@
 DisqusShortname = ""
 GoogleAnalytics = ""
-baseURL = "https://gestsol.github.io/pasajes-chile-noticias/"
+baseURL = "https://noticias.pasajeschile.cl/"
 canonifyURLs = true
 languageCode = "es-es"
 subtitle = "Sitio Oficial de Pasajes Chile Noticias"
