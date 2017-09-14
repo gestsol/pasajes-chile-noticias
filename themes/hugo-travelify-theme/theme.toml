@@ -1,6 +1,6 @@
 name = "PasajesChile Noticias"
 license = "MIT"
-licenselink = "//ggithub.com/gestsol/pasajes-chile-noticias/blob/master/LICENSE.md"
+licenselink = "//github.com/gestsol/pasajes-chile-noticias/blob/master/LICENSE.md"
 description = "Lovely wordpress theme, now coming to Hugo. "
 homepage = "//github.com/gestsol/pasajes-chile-noticias"
 tags = ["syntax highlighting", "rss", "widgets", "google analytics", "responsive", "carousel", "slider"]
