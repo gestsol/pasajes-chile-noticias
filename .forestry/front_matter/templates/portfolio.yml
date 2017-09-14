@@ -7,7 +7,7 @@ fields:
   label: Draft
   type: boolean
   hidden: false
-  default: ''
+  default: true
 - type: file
   label: Image
   name: image
