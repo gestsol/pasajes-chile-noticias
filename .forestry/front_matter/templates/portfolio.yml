@@ -1,4 +1,6 @@
 ---
+pages:
+- post/primer-post.md
 hide_body: false
 fields:
 - name: draft
