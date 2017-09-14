@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Promociones on Pasajes Chile Noticias</title>
-    <link>https://noticias.pasajeschile.cl/categories/promociones/</link>
-    <description>Recent content in Promociones on Pasajes Chile Noticias</description>
+    <title>Promociones on Tracks</title>
+    <link>/categories/promociones/</link>
+    <description>Recent content in Promociones on Tracks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <copyright>Copyright PasajesChile 2017</copyright>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
     <lastBuildDate>Wed, 13 Sep 2017 10:06:37 +0000</lastBuildDate>
-    <atom:link href="https://noticias.pasajeschile.cl/categories/promociones/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/categories/promociones/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>PROMOCIONES</title>
-      <link>https://noticias.pasajeschile.cl/promociones/</link>
+      <link>/promociones/</link>
       <pubDate>Wed, 13 Sep 2017 10:06:37 +0000</pubDate>
       
-      <guid>https://noticias.pasajeschile.cl/promociones/</guid>
+      <guid>/promociones/</guid>
       <description>Aqui se colocan los detalles de la promocion</description>
     </item>
     

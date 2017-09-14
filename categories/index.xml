@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Pasajes Chile Noticias</title>
-    <link>https://noticias.pasajeschile.cl/categories/</link>
-    <description>Recent content in Categories on Pasajes Chile Noticias</description>
+    <title>Categories on Tracks</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Tracks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <copyright>Copyright PasajesChile 2017</copyright>
-    <atom:link href="https://noticias.pasajeschile.cl/categories/" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Concursos</title>
-      <link>https://noticias.pasajeschile.cl/categories/concursos/</link>
+      <link>/categories/concursos/</link>
       <pubDate>Thu, 07 Sep 2017 12:24:06 +0000</pubDate>
       
-      <guid>https://noticias.pasajeschile.cl/categories/concursos/</guid>
+      <guid>/categories/concursos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promociones</title>
-      <link>https://noticias.pasajeschile.cl/categories/promociones/</link>
+      <link>/categories/promociones/</link>
       <pubDate>Wed, 13 Sep 2017 10:06:37 +0000</pubDate>
       
-      <guid>https://noticias.pasajeschile.cl/categories/promociones/</guid>
+      <guid>/categories/promociones/</guid>
       <description></description>
     </item>
     

@@ -3,81 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/promociones/</loc>
+    <loc>/promociones/</loc>
     <lastmod>2017-09-13T10:06:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/concursos/</loc>
+    <loc>/concursos/</loc>
     <lastmod>2017-09-13T09:46:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/post/lanzamiento-de-pasajes-chile/</loc>
+    <loc>/post/lanzamiento-de-pasajes-chile/</loc>
     <lastmod>2017-09-08T18:06:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/post/loren-ipsun/</loc>
+    <loc>/post/loren-ipsun/</loc>
     <lastmod>2017-09-07T12:24:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/tags/concurso/</loc>
-    <lastmod>2017-09-07T12:24:06+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://noticias.pasajeschile.cl/categories/concursos/</loc>
+    <loc>/tags/concurso/</loc>
     <lastmod>2017-09-07T12:24:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/tags/fotografia/</loc>
+    <loc>/categories/concursos/</loc>
     <lastmod>2017-09-07T12:24:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/</loc>
-    <lastmod>2017-09-13T10:06:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://noticias.pasajeschile.cl/tags/pasajeschile/</loc>
+    <loc>/tags/fotografia/</loc>
     <lastmod>2017-09-07T12:24:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/post/</loc>
+    <loc>/tags/pasajeschile/</loc>
+    <lastmod>2017-09-07T12:24:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2017-09-08T18:06:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/tags/promo/</loc>
+    <loc>/tags/promo/</loc>
     <lastmod>2017-09-13T10:06:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/categories/promociones/</loc>
+    <loc>/categories/promociones/</loc>
     <lastmod>2017-09-13T10:06:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://noticias.pasajeschile.cl/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-09-07T12:24:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-09-13T10:06:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
