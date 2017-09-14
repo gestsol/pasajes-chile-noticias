@@ -1,7 +1,6 @@
 ---
 pages:
 - concursos.md
-- post/loren-ipsun.md
 hide_body: false
 fields:
 - name: title
