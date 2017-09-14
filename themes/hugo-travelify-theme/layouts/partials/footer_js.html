@@ -1,4 +1,6 @@
 {{ template "_internal/google_analytics.html" . }}
+<script type='text/javascript' src="{{ .Site.BaseURL }}js/jquery.js"></script>
+<script type='text/javascript' src="{{ .Site.BaseURL }}js/jquery-migrate.min.js"></script>
 <script src="{{ "fancybox/jquery.fancybox.pack.js" | absURL }}"></script>
 <script src="{{ "js/script.js" | absURL }}"></script>
 <script src="{{ .Site.BaseURL }}js/highlight.min.js"></script>
@@ -17,8 +19,7 @@ MathJax.Hub.Config({
 </script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {{ end }}
-<script type='text/javascript' src="{{ .Site.BaseURL }}js/jquery.js"></script>
-<script type='text/javascript' src="{{ .Site.BaseURL }}js/jquery-migrate.min.js"></script>
+
 <script type='text/javascript' src="{{ .Site.BaseURL }}js/functions.min.js"></script>
 <!-- <script type='text/javascript' src="{{ .Site.BaseURL }}js/admin-bar.min.js"></script> -->
 <script type='text/javascript' src="{{ .Site.BaseURL }}js/jquery.cycle.all.min.js"></script>
