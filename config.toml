@@ -5,8 +5,8 @@ languageCode = "es-es"
 theme = "hugo-tracks-theme"
 title = "PasajesChile Noticias"
 [params]
-copyright = "&copy;2017 PasajescHILE"
-description = "Describe your website"
+copyright = "&copy;2017 PasajesChile"
+description = "Portal Informativo de pasajeschile.cl"
 email = "contacto@pasajeschile.cl"
 sidebarabout = ["I am a creative illustrator and graphic designer with more than 10 years of experience.", "Originally from Toronto, currently based in London."]
 style = "default"
