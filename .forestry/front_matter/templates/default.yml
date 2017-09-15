@@ -4,12 +4,15 @@ pages:
 hide_body: false
 fields:
 - name: title
-  label: Title
+  label: Titulo
   type: text
   hidden: false
   default: 
+  description: El titulo de la publicación
+  config:
+    required: true
 - name: categories
-  label: Categories
+  label: Categorias
   type: tag_list
   hidden: false
   default:
@@ -17,14 +20,16 @@ fields:
   - India
   - Pune
   - TheTravelBug
+  description: A que categorías pertenece ésta publicación?
 - name: tags
-  label: Tags
+  label: Etiquetas
   type: tag_list
   hidden: false
   default:
   - ganesh chaturthi in pune
   - pune festivals
   - pune travel
+  description: El sitio perfecto para añadir Tags y Tags
 - name: draft
   label: Borrador?
   type: boolean
