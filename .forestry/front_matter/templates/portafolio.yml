@@ -1,4 +1,6 @@
 ---
+pages:
+- post/publicacion-de-portafolio.md
 hide_body: false
 fields:
 - name: image
