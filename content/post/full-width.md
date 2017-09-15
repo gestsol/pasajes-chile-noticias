@@ -1,7 +1,8 @@
 +++
 categories = ["noticias", "promociones", "concursos"]
 date = "2017-09-15T12:00:21+00:00"
-tags = []
+draft = true
+tags = ["fullwidth"]
 title = "Full Width"
 
 +++
