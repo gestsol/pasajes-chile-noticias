@@ -8,21 +8,6 @@ fields:
   type: text
   hidden: false
   default: 
-- name: author
-  label: Author
-  type: text
-  hidden: false
-  default: Pasajes Chile
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: 2017-02-15 10:32:59 +0000
-- name: banner
-  label: Banner
-  type: text
-  hidden: false
-  default: img/indiagate1.jpg
 - name: categories
   label: Categories
   type: tag_list
@@ -41,7 +26,8 @@ fields:
   - pune festivals
   - pune travel
 - name: draft
-  label: Draft
+  label: Borrador?
   type: boolean
   hidden: false
-  default: true
+  default: ''
+  description: Por defecto es NO
