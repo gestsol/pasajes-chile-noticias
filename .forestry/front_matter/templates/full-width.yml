@@ -1,6 +1,4 @@
 ---
-pages:
-- post/full-width.md
 hide_body: false
 fields:
 - name: title
