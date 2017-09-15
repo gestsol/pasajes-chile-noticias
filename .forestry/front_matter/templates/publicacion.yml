@@ -1,4 +1,6 @@
 ---
+pages:
+- post/post-de-publicavion.md
 hide_body: false
 fields:
 - name: draft
