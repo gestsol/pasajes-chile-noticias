@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>&amp;copy;2017 PasajesChile</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 11:57:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 12:00:21 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fullwidth</title>
+      <link>/tags/fullwidth/</link>
+      <pubDate>Fri, 15 Sep 2017 12:00:21 +0000</pubDate>
+      
+      <guid>/tags/fullwidth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Portafolio</title>
