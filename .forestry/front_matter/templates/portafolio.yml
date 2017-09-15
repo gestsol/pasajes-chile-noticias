@@ -3,11 +3,9 @@ pages:
 - post/publicacion-de-portafolio.md
 hide_body: false
 fields:
-- name: image
+- type: file
+  name: image
   label: Imagen
-  type: text
-  hidden: false
-  default: ''
   description: "Ésta es la imagen destacada de la publicación"
 - name: showonlyimage
   label: Showonlyimage
