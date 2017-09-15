@@ -28,3 +28,6 @@ url = "about/"
 [[params.navlinks]]
 name = "Get in touch"
 url = "contact/"
+[[menu.main]]
+name = "INICIO"
+url = "/"
