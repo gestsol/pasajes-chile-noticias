@@ -4,6 +4,9 @@ googleAnalytics = ""
 languageCode = "es-es"
 theme = "hugo-tracks-theme"
 title = "PasajesChile Noticias"
+[[menu.main]]
+name = "INICIO"
+url = "/"
 [params]
 copyright = "&copy;2016 Your name or company"
 description = "Describe your website"
