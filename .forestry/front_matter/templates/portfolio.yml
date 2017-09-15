@@ -1,18 +1,20 @@
 ---
 hide_body: false
 fields:
-- name: draft
-  label: Draft
-  type: boolean
-  hidden: false
-  default: true
 - name: image
-  label: Image
+  label: Imagen
   type: text
   hidden: false
   default: ''
+  description: "Ésta es la imagen destacada de la publicación"
 - name: showonlyimage
   label: Showonlyimage
   type: boolean
-  hidden: false
+  hidden: true
   default: false
+- name: draft
+  label: Borrador?
+  type: boolean
+  hidden: false
+  default: ''
+  description: Por defecto es NO
