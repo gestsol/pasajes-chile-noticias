@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/full-width/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/publicacion-de-portafolio/</loc>
     <lastmod>2017-09-15T11:42:55+00:00</lastmod>
   </url>
@@ -29,14 +24,7 @@
   </url>
   
   <url>
-    <loc>/categories/asia/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,56 +35,19 @@
   </url>
   
   <url>
-    <loc>/tags/ganesh-chaturthi-in-pune/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/india/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
+    <lastmod>2017-09-15T11:42:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/pune/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pune-festivals/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pune-travel/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
+    <lastmod>2017-09-15T11:42:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/thetravelbug/</loc>
-    <lastmod>2017-09-15T11:44:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -7,46 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>&amp;copy;2017 PasajesChile</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 11:44:38 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Asia</title>
-      <link>/categories/asia/</link>
-      <pubDate>Fri, 15 Sep 2017 11:44:38 +0000</pubDate>
-      
-      <guid>/categories/asia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>India</title>
-      <link>/categories/india/</link>
-      <pubDate>Fri, 15 Sep 2017 11:44:38 +0000</pubDate>
-      
-      <guid>/categories/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pune</title>
-      <link>/categories/pune/</link>
-      <pubDate>Fri, 15 Sep 2017 11:44:38 +0000</pubDate>
-      
-      <guid>/categories/pune/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thetravelbug</title>
-      <link>/categories/thetravelbug/</link>
-      <pubDate>Fri, 15 Sep 2017 11:44:38 +0000</pubDate>
-      
-      <guid>/categories/thetravelbug/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
