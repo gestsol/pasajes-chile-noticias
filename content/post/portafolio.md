@@ -1,5 +1,5 @@
 +++
-categories = ["noticias", "promociones", "concursos"]
+categories = ["noticias", "promociones", "concursos", "camera"]
 date = "2017-09-15T11:57:36+00:00"
 image = "/img/portfolio/camera1.jpg"
 showonlyimage = false
