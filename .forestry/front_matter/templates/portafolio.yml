@@ -8,6 +8,14 @@ fields:
   name: image
   label: Imagen
   description: "Ésta es la imagen destacada de la publicación"
+- type: tag_list
+  label: Categorias
+  name: categories
+  description: A que categorías pertenece ésta publicación?
+- type: tag_list
+  label: Etiquetas
+  name: tags
+  description: El sitio perfecto para añadir Tags y Tags
 - name: draft
   label: Borrador?
   type: boolean
