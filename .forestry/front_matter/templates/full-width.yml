@@ -1,26 +1,17 @@
 ---
-pages:
-- post/full-width.md
 hide_body: false
 fields:
 - name: categories
   label: Categorias
   type: tag_list
   hidden: false
-  default:
-  - Asia
-  - India
-  - Pune
-  - TheTravelBug
+  default: []
   description: A que categorías pertenece ésta publicación?
 - name: tags
   label: Etiquetas
   type: tag_list
   hidden: false
-  default:
-  - ganesh chaturthi in pune
-  - pune festivals
-  - pune travel
+  default: []
   description: El sitio perfecto para añadir Tags y Tags
 - name: draft
   label: Borrador?
