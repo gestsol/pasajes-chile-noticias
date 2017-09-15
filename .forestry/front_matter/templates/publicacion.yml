@@ -1,0 +1,19 @@
+---
+hide_body: false
+fields:
+- name: draft
+  label: Borrador
+  type: boolean
+  hidden: false
+  default: true
+  description: Si está activado, se guardará como borrador antes de ser publicado.
+- type: file
+  label: Imagen
+  name: image
+  default: "/img/portfolio/camera1.jpg"
+  description: "Ésta es la imagen destacada que se muestra en la portada de Inicio"
+- name: showonlyimage
+  label: Showonlyimage
+  type: boolean
+  hidden: false
+  default: false

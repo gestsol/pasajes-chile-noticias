@@ -1,13 +1,12 @@
 +++
+categories = ["Travel"]
+date = "2016-11-05T19:44:32+05:30"
 image = "img/portfolio/bridge1.jpg"
 showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
 title = "Another Awesome Post"
-categories = [ "Travel" ]
-draft = false
 weight = 2
-+++
 
++++
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
 <!--more-->
 
