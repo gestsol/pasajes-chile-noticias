@@ -5,21 +5,11 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Tracks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <copyright>&amp;copy;2017 PasajesChile</copyright>
-    <lastBuildDate>Wed, 13 Sep 2017 10:06:37 +0000</lastBuildDate>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Promo</title>
-      <link>/tags/promo/</link>
-      <pubDate>Wed, 13 Sep 2017 10:06:37 +0000</pubDate>
-      
-      <guid>/tags/promo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

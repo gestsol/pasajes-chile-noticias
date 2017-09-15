@@ -3,18 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/primer-post/</loc>
-    <lastmod>2017-09-14T18:17:34+00:00</lastmod>
+    <loc>/post/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/promociones/</loc>
-    <lastmod>2017-09-13T10:06:37+00:00</lastmod>
+    <loc>/post/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/concursos/</loc>
-    <lastmod>2017-09-13T09:46:11+00:00</lastmod>
+    <loc>/post/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work7/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work8/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work9/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work10/</loc>
+    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work11/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work1/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,32 +74,49 @@
   </url>
   
   <url>
+    <loc>/categories/code/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/design/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/photography/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2017-09-14T18:17:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/promo/</loc>
-    <lastmod>2017-09-13T10:06:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/promociones/</loc>
-    <lastmod>2017-09-13T10:06:37+00:00</lastmod>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-09-13T10:06:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-09-14T18:17:34+00:00</lastmod>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/travel/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
