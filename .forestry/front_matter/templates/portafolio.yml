@@ -1,4 +1,6 @@
 ---
+pages:
+- post/portafolio.md
 hide_body: false
 fields:
 - type: file
