@@ -7,11 +7,6 @@ fields:
   name: image
   label: Imagen
   description: "Ésta es la imagen destacada de la publicación"
-- name: showonlyimage
-  label: Showonlyimage
-  type: boolean
-  hidden: true
-  default: false
 - name: draft
   label: Borrador?
   type: boolean
