@@ -1,5 +1,6 @@
 ---
 pages:
+- post/a.md
 - post/portafolio.md
 hide_body: false
 fields:
