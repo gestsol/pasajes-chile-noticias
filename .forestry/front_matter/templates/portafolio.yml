@@ -4,6 +4,12 @@ pages:
 - post/portafolio.md
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: Titulo
+  description: "Éste es el título del artículo"
+  config:
+    required: true
 - type: file
   name: image
   label: Imagen
