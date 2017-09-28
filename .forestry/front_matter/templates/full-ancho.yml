@@ -23,3 +23,5 @@ fields:
   default: ''
   description: Por defecto es NO
 - type: textarea
+  name: name
+  label: Titulo
