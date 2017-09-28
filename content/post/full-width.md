@@ -6,6 +6,4 @@ title = "Full Ancho"
 undefined = ""
 
 +++
-
-
 Somos las nueva multiplataforma que vende pasajes de bus por todo Chile. Puedes comprar tu boleto a través de www.pasajeschile.cl

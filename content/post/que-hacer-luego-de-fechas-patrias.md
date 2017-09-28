@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2017-09-22T15:30:09+00:00"
+date = "2017-09-22T15:30:09Z"
 draft = true
 image = ""
 showonlyimage = false
@@ -8,8 +8,6 @@ tags = []
 title = "¿Qué hacer luego de Fechas Patrias?"
 
 +++
-
-
 ### Falta poco para que termine septiembre, el mes de la patria y festividades, pero aún quedan feriados por disfrutar durante el resto del 2017
 
 Dentro de una semana llega el mes de **octubre** y con él dos feriados que no puedes perderte.
