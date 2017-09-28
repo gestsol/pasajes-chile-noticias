@@ -4,6 +4,9 @@ pages:
 - post/full-width.md
 hide_body: false
 fields:
+- type: textarea
+  name: title
+  label: Titulo
 - name: categories
   label: Categorias
   type: tag_list
@@ -22,6 +25,3 @@ fields:
   hidden: false
   default: ''
   description: Por defecto es NO
-- type: textarea
-  name: title
-  label: Titulo
