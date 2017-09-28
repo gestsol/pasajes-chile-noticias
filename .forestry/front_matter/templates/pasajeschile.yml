@@ -21,3 +21,4 @@ fields:
   hidden: false
   default: ''
   description: Por defecto es NO
+- type: textarea
