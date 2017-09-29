@@ -6,6 +6,4 @@ title = "Full Width"
 undefined = ""
 
 +++
-
-
 Imagen larga
