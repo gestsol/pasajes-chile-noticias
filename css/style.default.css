@@ -1059,7 +1059,8 @@ body {
   font-size: 14px;
   line-height: 1.42857;
   color: #333333;
-  background-color: #fff; }
+  background: url('/img/blog_pasajeschile_background.png');
+  background-attachment: fixed; }
 
 input,
 button,
@@ -6287,7 +6288,6 @@ a {
     text-decoration: none; }
 
 body, input, select, button {
-  background: #222;
   color: #fff;
   font-family: "raleway", sans-serif;
   font-size: 16px;
@@ -6300,10 +6300,9 @@ body, input, select, button {
 .site-header, .site-footer {
   padding-bottom: 2em; }
   .site-header a, .site-footer a {
-    opacity: 0.4;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 0.813em;
+    font-size: 0.9em;
     letter-spacing: 0.08em;
     line-height: 1.85em;
     margin-right: 0.75em;
@@ -6428,7 +6427,7 @@ body, input, select, button {
   font-size: 2.0em; }
 
 .category-header, .category-description {
-  opacity: 0.4;
+  /* opacity: 0.4; */
   font-size: 0.85em;
   letter-spacing: 0.08em;
   line-height: 1.85em;
@@ -6492,7 +6491,7 @@ body, input, select, button {
   .top-navigation {
     position: relative;
     min-height: 3em;
-    background: #111;
+    background: rgb(23, 31, 51);
     /* margin: -2.25em 0 1.5em 0; */
     line-height: 0; }
   .categories-block {
@@ -6505,7 +6504,7 @@ body, input, select, button {
     position: relative;
     z-index: 2;
     /* padding: 1.5em 5.55% 2.25em; */
-    border-top: solid 0.75em #111; }
+    border-top: solid 0.75em rgb(23, 31, 51); }
   .menu {
     float: right; }
   .content {
@@ -6520,3 +6519,6 @@ body, input, select, button {
     margin-bottom: 0; }
   .content .content-excerpt {
     margin-bottom: 0; } }
+.cabecera {
+  text-align: center
+}
