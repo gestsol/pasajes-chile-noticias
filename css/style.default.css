@@ -6522,3 +6522,6 @@ body, input, select, button {
 .cabecera {
   text-align: center
 }
+.footerLogo {
+  height: 50px;
+}
