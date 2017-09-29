@@ -6,18 +6,18 @@ fields:
 - type: textarea
   name: title
   label: Titulo
-- name: categories
-  label: Categorias
-  type: tag_list
-  hidden: false
-  default: []
-  description: A que categorías pertenece ésta publicación?
 - name: tags
   label: Etiquetas
   type: tag_list
   hidden: false
   default: []
   description: El sitio perfecto para añadir Tags y Tags
+- name: categories
+  label: Categorias
+  type: tag_list
+  hidden: false
+  default: []
+  description: A que categorías pertenece ésta publicación?
 - name: draft
   label: Borrador?
   type: boolean
