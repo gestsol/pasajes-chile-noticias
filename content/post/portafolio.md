@@ -28,4 +28,3 @@ Para disfrutar del beneficio no será necesario una inscripción ya que solo bas
 Fuente: [24horas.cl](http://www.24horas.cl/nacional/metro-y-transantiago-anuncian-descuentos-especiales-para-quienes-paguen-su-pasaje-2519164)
 
 ###
-
