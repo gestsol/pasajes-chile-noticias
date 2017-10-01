@@ -3,7 +3,7 @@ categories = ["Cultura"]
 date = "2017-10-01T20:09:57+00:00"
 image = "/uploads/2017/10/01/luggage-1149289_1920.jpg"
 showonlyimage = false
-tags = ["Fechas patrias", "vacaciones", "pasajes de bus", "turismo", "chile"]
+tags = ["Fechas patrias", "vacaciones"]
 title = "¿Qué hacer luego de Fechas Patrias?"
 
 +++
