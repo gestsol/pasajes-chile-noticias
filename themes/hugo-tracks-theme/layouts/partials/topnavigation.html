@@ -11,7 +11,7 @@
     <div class="social-media-block">
 
       {{ with .Site.Params.social.facebook }}
-      <a href="{{ . }}" data-animate-hover="pulse" class="external facebook">
+      <a href="https://facebook.com/{{ . }}" data-animate-hover="pulse" class="external facebook">
           <img class="imgHeader" src="/img/blog_pasajeschile_fb.png" alt="Facebook PasajesChile" />
       </a>
       {{end}}
@@ -21,12 +21,12 @@
       </a>
       {{end}}
       {{ with .Site.Params.social.twitter }}
-      <a href="{{ . }}" data-animate-hover="pulse" class="external twitter">
+      <a href="https://twitter.com/{{ . }}" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-twitter"></i>
       </a>
       {{end}}
       {{ with .Site.Params.social.instagram }}
-      <a href="{{ . }}" title="" class="external instagram">
+      <a href="https://instagram.com/{{ . }}" title="" class="external instagram">
           <img class="imgHeader" src="/img/blog_pasajeschile_inst.png" alt="Instagram PasajesChile" />
       </a>
       {{end}}
