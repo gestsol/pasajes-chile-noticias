@@ -44,6 +44,12 @@
   </url>
   
   <url>
+    <loc>/tags/chile/</loc>
+    <lastmod>2017-10-01T20:36:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
     <priority>0</priority>
@@ -99,13 +105,25 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-10-01T20:09:57+00:00</lastmod>
+    <lastmod>2017-10-01T20:36:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tips/</loc>
+    <lastmod>2017-10-01T20:36:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/vacaciones/</loc>
     <lastmod>2017-10-01T20:09:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/viajes-en-bus/</loc>
+    <lastmod>2017-10-01T20:36:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
