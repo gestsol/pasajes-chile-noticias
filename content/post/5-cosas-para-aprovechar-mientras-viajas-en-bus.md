@@ -7,8 +7,6 @@ tags = ["Viajes en bus", "Chile"]
 title = "4 cosas para aprovechar mientras viajas en bus"
 
 +++
-
-
 **4 razones por las que es mejor viajar en bus**
 
 Aunque muchos piensan que el avión es el mejor medio de transporte, creemos que el bus también tiene sus rasgos positivos y divertidos.
