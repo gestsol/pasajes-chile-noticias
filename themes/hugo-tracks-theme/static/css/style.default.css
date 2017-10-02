@@ -6338,13 +6338,13 @@ body, input, select, button {
     font-weight: 700;
     text-align: center; }
   .content-title a {
-    color: #222;
+    color: rgb(227, 0, 36);
     -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease; }
   .content-title:after {
     content: '';
     position: absolute;
-    background: #4d4d4d;
+    background: rgb(227, 0, 36);
     width: 4.5em;
     height: 0.375em;
     left: 0;
@@ -6359,7 +6359,7 @@ body, input, select, button {
 
 .more-link {
   position: relative;
-  color: #4d4d4d;
+  color: rgb(227, 0, 26);
   clear: both;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -6403,7 +6403,7 @@ body, input, select, button {
   text-transform: uppercase; }
 
 .entry-header {
-  color: #4d4d4d;
+  color: rgb(227, 0, 36);
   font-size: 3em;
   font-weight: 700;
   text-align: center;
@@ -6530,6 +6530,6 @@ body, input, select, button {
 .carouselHeader{
   padding: 0px !important;
 }
-.imgCarousel{
+.imgHeader{
   width: 100%;
 }
