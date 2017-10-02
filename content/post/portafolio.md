@@ -7,15 +7,17 @@ tags = ["portafolio"]
 title = "Metro y Transantiago otorgan descuentos especiales a quienes paguen su pasaje"
 
 +++
+
+
 Los pasajeros pueden formar parte del Club Bip!
 
 ### **Metro y Transantiago otorgan descuentos especiales a quienes paguen su pasaje**
 
 La ministra de Transporte, Paola Tapia, comunicó la entrega de descuentos especiales para los usuarios que paguen su pasaje, tanto en el metro de Santiago como en el Transantiago.
 
-Según la secretaria de Estado **todos los usuarios que carguen su tarjeta pasaran a formar parte del Club Bip!**, un convenio sostenido por 12 empresas que entregaran ofertas a las personas.
+Según la secretaria de Estado **todos los usuarios que carguen su tarjeta pasaran a formar parte del Club Bip!**, un convenio sostenido por 12 empresas que entregaran ofertas a las personas.
 
-El pasajero, **al mostrar un comprobante de carga <span style="font-size: 1rem;">desde los 1000 $, podrá disfrutar de beneficios y ofertas en 12 empresas.</span>**
+El pasajero, **al mostrar un comprobante de carga desde los 1000 $, podrá disfrutar de beneficios y ofertas en 12 empresas**.
 
 Para disfrutar del beneficio no será necesario una inscripción ya que solo basta mostrar el comprobante de carga que debe ser desde los 1000$
 
