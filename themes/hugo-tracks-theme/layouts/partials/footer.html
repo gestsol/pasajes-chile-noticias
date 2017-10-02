@@ -23,7 +23,7 @@
   <div class="col-sm-12">
     <div class="social-media-block-footer">
       {{ with .Site.Params.social.facebook }}
-      <a href="{{ . }}" data-animate-hover="pulse" class="external facebook">
+      <a href="https://facebook.com/{{ . }}" data-animate-hover="pulse" class="external facebook">
         <i class="fa fa-facebook"></i>
       </a>
       {{end}}
@@ -33,12 +33,12 @@
       </a>
       {{end}}
       {{ with .Site.Params.social.twitter }}
-      <a href="{{ . }}" data-animate-hover="pulse" class="external twitter">
+      <a href="https://twitter.com/{{ . }}" data-animate-hover="pulse" class="external twitter">
         <i class="fa fa-twitter"></i>
       </a>
       {{end}}
       {{ with .Site.Params.social.instagram }}
-      <a href="{{ . }}" title="" class="external instagram">
+      <a href="https://instagram.com/{{ . }}" title="" class="external instagram">
         <i class="fa fa-instagram"></i>
       </a>
       {{end}}
