@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>/post/full-width/</loc>
-    <lastmod>2017-09-15T12:00:21+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/portafolio/</loc>
     <lastmod>2017-09-15T11:57:36+00:00</lastmod>
   </url>
@@ -64,18 +59,6 @@
   <url>
     <loc>/tags/fechas-patrias/</loc>
     <lastmod>2017-10-01T20:09:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/fullwidth/</loc>
-    <lastmod>2017-09-15T12:00:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/max/</loc>
-    <lastmod>2017-09-15T12:00:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
