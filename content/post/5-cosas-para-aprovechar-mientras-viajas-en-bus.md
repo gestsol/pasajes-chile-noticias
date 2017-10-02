@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Tips"]
 date = "2017-10-01T20:36:08+00:00"
 image = "/uploads/2017/10/02/road-1303617_1920.jpg"
 showonlyimage = false
-tags = []
+tags = ["Viajes en bus", "Chile"]
 title = "4 cosas para aprovechar mientras viajas en bus"
 
 +++
