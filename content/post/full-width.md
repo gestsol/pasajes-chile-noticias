@@ -6,7 +6,5 @@ title = ""
 undefined = ""
 
 +++
-
-
 ![](/uploads/2017/09/29/blog_pasajeschile_slider.png)
 

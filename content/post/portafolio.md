@@ -7,8 +7,6 @@ tags = ["portafolio"]
 title = "Metro y Transantiago otorgan descuentos especiales a quienes paguen su pasaje"
 
 +++
-
-
 Los pasajeros pueden formar parte del Club Bip!
 
 ### **Metro y Transantiago otorgan descuentos especiales a quienes paguen su pasaje**
