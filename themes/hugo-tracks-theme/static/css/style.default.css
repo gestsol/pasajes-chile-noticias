@@ -6290,7 +6290,6 @@ a {
 body, input, select, button {
   color: #fff;
   font-family: "raleway", sans-serif;
-  font-size: 16px;
   height: 100%;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -6315,7 +6314,7 @@ body, input, select, button {
   color: #4d4d4d;
   opacity: 0.8;
   height: inherit;
-  padding: 1.5em 2em;
+  padding: 0 2em 0 2em;
   z-index: 5;
   transition: opacity 0.1s ease; }
 
@@ -6489,6 +6488,7 @@ body, input, select, button {
 
 @media (min-width: 768px) {
   .top-navigation {
+    font-size: 16px;
     position: relative;
     min-height: 3em;
     background: rgb(23, 31, 51);
@@ -6520,7 +6520,9 @@ body, input, select, button {
   .content .content-excerpt {
     margin-bottom: 0; } }
 .cabecera {
-  text-align: center
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .footerLogo {
   height: 50px;
