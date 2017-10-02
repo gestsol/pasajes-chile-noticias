@@ -6525,3 +6525,9 @@ body, input, select, button {
 .footerLogo {
   height: 50px;
 }
+.carouselHeader{
+  padding: 0px !important;
+}
+.imgCarousel{
+  width: 100%;
+}
