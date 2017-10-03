@@ -6537,3 +6537,9 @@ body, input, select, button {
 .imgHeader{
   width: 100%;
 }
+.BtnPosts{
+  background: rgb(231,0,36);
+  border: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
