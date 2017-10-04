@@ -51,4 +51,4 @@ Los paisajes de Chile inspiran y tú, a través de imágenes, puedes hacer que m
 
 * Los participantes que ganen tienen un plazo desde el 6 de noviembre hasta el 31 de diciembre de 2017 para canjear su premio. Ninguno de los premios (primero, segundo y tercer lugar) es válido en fechas festivas o feriados largos.
 
-Para más información, ingrese a ** www.pasajeschile.cl** o síguenos en Facebook, Instagram y Twitter como @pasajeschile
+Para más información, ingrese a [www.pasajeschile.cl](https://www.pasajeschile.cl/files/bases_concurso.pdf) o síguenos en Facebook, Instagram y Twitter como @pasajeschile
