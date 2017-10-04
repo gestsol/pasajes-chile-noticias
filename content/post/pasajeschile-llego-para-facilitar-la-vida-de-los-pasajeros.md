@@ -13,19 +13,19 @@ El **24 de agosto PasajesChile vio la luz por primera vez.** Y hasta el moment
 
 El día del lanzamiento contamos con la asistencia de la prensa, de [Sernatur](https://www.sernatur.cl/), de [Fenabus](http://www.fenabus.cl/), de nuestro equipo, de diversos empresarios y otros amigos que confiaron, y nos apoyaron, en este proyecto que hoy día es más que real.
 
-Ese día **_expresamos nuestra visión y los objetivos a cumplir:_**
+Ese día ***expresamos nuestra visión y los objetivos a cumplir:***
 
-- Complementar el servicio de venta de pasajes de bus que se lleva a cabo en los terminales.
+* Complementar el servicio de venta de pasajes de bus que se lleva a cabo en los terminales.
 
-- Instalar los tótems de autoservicio, un sistema automatizado y rápido, que disminuye los tiempos de espera y garantiza rapidez para el usuario.
+* Instalar los tótems de autoservicio, un sistema automatizado y rápido, que disminuye los tiempos de espera y garantiza rapidez para el usuario.
 
 -Satisfacer la alta demanda de pasajes de bus.
 
 -Cubrir todos los destinos de Chile y ampliar horizontes
 
-- Ser una plataforma que reúna todas las compañías de bus instaladas en Chile.
+* Ser una plataforma que reúna todas las compañías de bus instaladas en Chile.
 
-- Ofrecer una experiencia grata a los pasajeros y no conformarnos con solo vender pasajes de bus.
+* Ofrecer una experiencia grata a los pasajeros y no conformarnos con solo vender pasajes de bus.
 
 **Jugamos las eliminatorias con la selección chilena**
 
@@ -42,6 +42,4 @@ Al ser una plataforma que no cobra comisión se vuelve más económica para nues
 ![](/uploads/2017/10/04/21149969_1586159151442983_1325312883311585565_n.jpg)
 
 ### De eso se trata PasajesChile, de crear experiencias, satisfacer al usuario y hacer de esta empresa un aliado para sus viajes. ¡Vamos por más!
-
-Foto principal, cortesía de LUN.com
 
