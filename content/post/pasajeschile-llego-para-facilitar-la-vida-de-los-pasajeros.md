@@ -1,7 +1,7 @@
 +++
 categories = ["Noticias"]
 date = "2017-10-04T10:31:55+00:00"
-image = "/uploads/2017/10/04/14_01_2508_768.jpg"
+image = "/uploads/2017/10/04/TOTE.JPG"
 showonlyimage = false
 tags = ["Pasajes de bus", "Chile"]
 title = "PasajesChile reinventó la venta de pasajes de bus"
