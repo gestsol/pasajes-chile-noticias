@@ -6415,7 +6415,7 @@ body, input, select, button {
   margin-bottom: 1em; }
 
 .entry-sidebar {
-  color: #4d4d4d;
+  color: rgb(227, 0, 36);
   font-size: 0.8em;
   font-weight: 700;
   text-align: right;
@@ -6542,4 +6542,8 @@ body, input, select, button {
   border: 0;
   font-size: 16px;
   font-weight: 600;
+  padding: 5px 15px;
+}
+button:focus {
+  outline: 0;
 }
