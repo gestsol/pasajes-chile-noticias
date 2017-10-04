@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/gana-un-fin-de-semana-dorado-con-pasajeschile/</loc>
+    <lastmod>2017-10-04T18:27:47+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/pasajeschile-llego-para-facilitar-la-vida-de-los-pasajeros/</loc>
     <lastmod>2017-10-04T10:31:55+00:00</lastmod>
   </url>
@@ -50,6 +55,12 @@
   </url>
   
   <url>
+    <loc>/tags/concurso/</loc>
+    <lastmod>2017-10-04T18:27:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
     <priority>0</priority>
@@ -68,8 +79,14 @@
   </url>
   
   <url>
+    <loc>/tags/fotograf%C3%ADa/</loc>
+    <lastmod>2017-10-04T18:27:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/noticias/</loc>
-    <lastmod>2017-10-04T10:31:55+00:00</lastmod>
+    <lastmod>2017-10-04T18:27:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,7 +98,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-10-04T10:31:55+00:00</lastmod>
+    <lastmod>2017-10-04T18:27:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,7 +110,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-10-04T10:31:55+00:00</lastmod>
+    <lastmod>2017-10-04T18:27:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
