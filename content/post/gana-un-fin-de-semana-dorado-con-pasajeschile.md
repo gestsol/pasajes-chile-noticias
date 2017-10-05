@@ -25,7 +25,7 @@ Los paisajes de Chile inspiran y tú, a través de imágenes, puedes hacer que m
 
 * Capturar **1 fotografía (máximo) y publicarla en Instagram.**
 
-* Posteriormente, el participante debe **enviar su foto** y sus **datos** al correo: **pasajeschilecomunicaciones@gmail.com** En el correo debe especificar sunombre, apellido, región/país de procedencia y lugar en el que fue tomada la foto.
+* Posteriormente, el participante debe **enviar su foto** y sus **datos** al correo: **pasajeschilecomunicaciones@gmail.com** En el correo debe especificar su nombre, apellido, región/país de procedencia y lugar en el que fue tomada la foto.
 
 * La foto enviada al correo debe cumplir con las siguientes dimensiones: **1920 x 1080.**
 
