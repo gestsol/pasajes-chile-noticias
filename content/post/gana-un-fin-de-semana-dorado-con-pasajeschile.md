@@ -1,7 +1,7 @@
 +++
 categories = ["Noticias"]
 date = "2017-10-04T18:27:47+00:00"
-image = "/uploads/2017/10/04/concurso3.jpg"
+image = "/uploads/2017/10/05/photographer-455747_1920.jpg"
 showonlyimage = false
 tags = ["Concurso", "Fotografía"]
 title = "¡Gana un \"Fin de Semana Dorado\" con PasajesChile!"
