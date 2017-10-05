@@ -1,14 +1,12 @@
 +++
 categories = ["Noticias"]
-date = "2017-10-04T10:31:55+00:00"
+date = "2017-10-04T10:31:55Z"
 image = "/uploads/2017/10/04/TOTE.JPG"
 showonlyimage = false
 tags = ["Pasajes de bus", "Chile"]
 title = "PasajesChile reinventó la venta de pasajes de bus"
 
 +++
-
-
 El **24 de agosto PasajesChile vio la luz por primera vez.** Y hasta el momento, tras un mes de esta aventura, es imposible no recordar este momento especial.
 
 El día del lanzamiento contamos con la asistencia de la prensa, de [Sernatur](https://www.sernatur.cl/), de [Fenabus](http://www.fenabus.cl/), de nuestro equipo, de diversos empresarios y otros amigos que confiaron, y nos apoyaron, en este proyecto que hoy día es más que real.

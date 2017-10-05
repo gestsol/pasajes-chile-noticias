@@ -1,14 +1,12 @@
 +++
 categories = ["Noticias"]
-date = "2017-10-04T18:27:47+00:00"
+date = "2017-10-04T18:27:47Z"
 image = "/uploads/2017/10/04/concurso3.jpg"
 showonlyimage = false
 tags = ["Concurso", "Fotografía"]
 title = "¡Gana un \"Fin de Semana Dorado\" con PasajesChile!"
 
 +++
-
-
 Si eres fotógrafo aficionado y/o profesional no puedes perder la oportunidad de mostrar tu trabajo fotográfico en nuestra página web (www.pasajeschile.cl) y hacerla viral en nuestra plataforma, manteniendo tus créditos como autor.
 
 Los paisajes de Chile inspiran y tú, a través de imágenes, puedes hacer que muchos viajen por él. **¡Participa y gana un fin de semana dorado, o un viaje a cualquier destino de Chile!**
