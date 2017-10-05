@@ -1,12 +1,14 @@
 +++
 categories = ["Noticias"]
-date = "2017-10-04T18:27:47Z"
+date = "2017-10-04T18:27:47+00:00"
 image = "/uploads/2017/10/04/concurso3.jpg"
 showonlyimage = false
 tags = ["Concurso", "Fotografía"]
 title = "¡Gana un \"Fin de Semana Dorado\" con PasajesChile!"
 
 +++
+
+
 Si eres fotógrafo aficionado y/o profesional no puedes perder la oportunidad de mostrar tu trabajo fotográfico en nuestra página web (www.pasajeschile.cl) y hacerla viral en nuestra plataforma, manteniendo tus créditos como autor.
 
 Los paisajes de Chile inspiran y tú, a través de imágenes, puedes hacer que muchos viajen por él. **¡Participa y gana un fin de semana dorado, o un viaje a cualquier destino de Chile!**
@@ -23,7 +25,7 @@ Los paisajes de Chile inspiran y tú, a través de imágenes, puedes hacer que m
 
 * Capturar **1 fotografía (máximo) y publicarla en Instagram.**
 
-* Posteriormente, el participante será contactado para que este envíe la foto publicada. En ese correo se le solicitará su nombre completo, región/país de procedencia y los detalles con relación a la fotografía capturada.
+* Posteriormente, el participante debe **enviar su foto** y sus **datos** al **correo: pasajeschilecomunicaciones@gmail.com **En el correo debe especificar sunombre, apellido, región/país de procedencia y lugar en el que fue tomada la foto.
 
 * La foto enviada al correo debe cumplir con las siguientes dimensiones: **1920 x 1080.**
 
