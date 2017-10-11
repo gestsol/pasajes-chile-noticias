@@ -9,8 +9,6 @@ title = "5 feriados que puedes disfrutar el resto del 2017"
 +++
 
 
-*Llegó octubre y con él dos feriados que no puedes perderte:*
-
 **Lunes 9: Día del Descubrimiento de Dos Mundos.**
 
 Faltan pocos días para salir y echarte una escapa para este fin largo que inicia desde este viernes 6 de octubre. No esperes mucho tiempo, anticipa tus pasajes y disfruta ;)
@@ -38,4 +36,3 @@ Sí, por ser un día lunes podemos echarnos una escapada desde el viernes 22 de 
 Anticipa tus pasajes en [PasajesChile.cl](https://www.pasajeschile.cl/#!/) y aprovecha estos cuatro feriados que nos quedan.
 
 :)
-
