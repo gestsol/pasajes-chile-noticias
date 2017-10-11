@@ -1,13 +1,15 @@
 +++
 categories = ["Cultura"]
-date = "2017-10-01T20:09:57Z"
+date = "2017-10-01T20:09:57+00:00"
 image = "/uploads/2017/10/01/luggage-1149289_1920.jpg"
 showonlyimage = false
 tags = ["Fechas patrias", "vacaciones"]
-title = "¿Qué hacer luego de Fechas Patrias?"
+title = "5 feriados que puedes disfrutar el resto del 2017"
 
 +++
-_Llegó octubre y con él dos feriados que no puedes perderte:_
+
+
+*Llegó octubre y con él dos feriados que no puedes perderte:*
 
 **Lunes 9: Día del Descubrimiento de Dos Mundos.**
 
@@ -23,11 +25,17 @@ Por otro lado nos va quedando noviembre y diciembre:
 
 **1 de noviembre: Día de Todos los Santos**
 
-_Y por último diciembre, el cual nos trae dos días festivos:_
+*Y por último diciembre, el cual nos trae dos días festivos:*
 
 **Viernes 8: Día de la Inmaculada Concepción**
 
 ¡Otro fin largo! ¿Qué esperas para planificar algo entrete?
 
 **Lunes 25: Navidad**
+
+Sí, por ser un día lunes podemos echarnos una escapada desde el viernes 22 de diciembre y tener unas navidades diferentes. ¿O no?
+
+Anticipa tus pasajes en [PasajesChile.cl](https://www.pasajeschile.cl/#!/) y aprovecha estos cuatro feriados que nos quedan.
+
+:)
 
