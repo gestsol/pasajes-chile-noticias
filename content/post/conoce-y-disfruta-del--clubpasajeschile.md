@@ -18,9 +18,3 @@ Por medio de la pagina web del [Club PasajesChile ](https://club.pasajeschile.c
 
 De haber comprado en los tótems de autoservicio
 
-Según la secretaria de Estado todos los usuarios que carguen su tarjeta pasaran a formar parte del Club Bip!, un convenio sostenido por 12 empresas que entregaran ofertas a las personas.
-
-El pasajero, al mostrar un comprobante de carga desde los 1000 $, podrá disfrutar de beneficios y ofertas en 12 empresas.
-
-Para disfrutar del beneficio no será necesario una inscripción ya que solo basta mostrar el comprobante de carga que debe ser desde los 1000$
-
