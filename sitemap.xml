@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/5-destinos-chilenos-para-disfrutar-en-primavera/</loc>
+    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/gana-un-fin-de-semana-dorado-con-pasajeschile/</loc>
     <lastmod>2017-10-04T18:27:47+00:00</lastmod>
   </url>
@@ -50,7 +55,7 @@
   
   <url>
     <loc>/tags/chile/</loc>
-    <lastmod>2017-10-04T10:31:55+00:00</lastmod>
+    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,7 +73,7 @@
   
   <url>
     <loc>/categories/cultura/</loc>
-    <lastmod>2017-10-01T20:09:57+00:00</lastmod>
+    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,7 +103,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-10-04T18:27:47+00:00</lastmod>
+    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,13 +115,19 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-10-04T18:27:47+00:00</lastmod>
+    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/primavera/</loc>
+    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-10-04T10:31:55+00:00</lastmod>
+    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>&amp;copy;2017 PasajesChile</copyright>
-    <lastBuildDate>Wed, 04 Oct 2017 10:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2017 16:00:19 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Chile</title>
       <link>/tags/chile/</link>
-      <pubDate>Wed, 04 Oct 2017 10:31:55 +0000</pubDate>
+      <pubDate>Mon, 16 Oct 2017 16:00:19 +0000</pubDate>
       
       <guid>/tags/chile/</guid>
       <description></description>
@@ -63,6 +63,15 @@
       <pubDate>Fri, 15 Sep 2017 11:57:36 +0000</pubDate>
       
       <guid>/tags/portafolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primavera</title>
+      <link>/tags/primavera/</link>
+      <pubDate>Mon, 16 Oct 2017 16:00:19 +0000</pubDate>
+      
+      <guid>/tags/primavera/</guid>
       <description></description>
     </item>
     
