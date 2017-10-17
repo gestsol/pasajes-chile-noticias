@@ -1,14 +1,12 @@
 +++
 categories = ["Cultura"]
-date = "2017-10-16T16:00:19+00:00"
+date = "2017-10-16T16:00:19Z"
 image = "/uploads/2017/10/16/chile-87055_1280.jpg"
 showonlyimage = false
 tags = ["Primavera ", "Chile"]
 title = "5 destinos chilenos para disfrutar en primavera"
 
 +++
-
-
 Los días fríos están acabándose y cada día las calles se adornan con **nuevas flores y colores**
 
 La primavera nos regala días soleados y más horas de luz. **Situaciones perfectas para salir a pasear y relajarnos en la naturaleza. **

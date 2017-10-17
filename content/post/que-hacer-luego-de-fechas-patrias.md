@@ -1,14 +1,12 @@
 +++
 categories = ["Cultura"]
-date = "2017-10-01T20:09:57+00:00"
+date = "2017-10-01T20:09:57Z"
 image = "/uploads/2017/10/01/luggage-1149289_1920.jpg"
 showonlyimage = false
 tags = ["Fechas patrias", "vacaciones"]
 title = "5 feriados que puedes disfrutar el resto del 2017"
 
 +++
-
-
 **Lunes 9: Día del Descubrimiento de Dos Mundos.**
 
 Faltan pocos días para salir y echarte una escapa para este fin largo que inicia desde este viernes 6 de octubre. No esperes mucho tiempo, anticipa tus pasajes y disfruta ;)

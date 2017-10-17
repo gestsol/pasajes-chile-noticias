@@ -1,6 +1,6 @@
 +++
 categories = ["Noticias"]
-date = "2017-10-13T10:14:34+00:00"
+date = "2017-10-13T10:14:34Z"
 draft = true
 image = ""
 showonlyimage = false
@@ -8,8 +8,6 @@ tags = []
 title = "Conoce y disfruta del #ClubPasajesChile"
 
 +++
-
-
 Para disfrutar del Club de Beneficios PasajesChile la persona debe ser cliente, es decir haber comprado sus pasajes de bus con PasajesChile.cl
 
 Si el pasajero efectúo su compra a través de la página web [www.pasajeschile.cl ](https://www.pasajeschile.cl/#!/)o por medio de los tótems de autoservicio, ubicados en el Terminal Sur de Santiago, podrá disfrutar de estos beneficios

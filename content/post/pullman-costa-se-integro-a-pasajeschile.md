@@ -1,6 +1,6 @@
 +++
 categories = ["Noticias "]
-date = "2017-10-11T10:50:59+00:00"
+date = "2017-10-11T10:50:59Z"
 draft = true
 image = "/uploads/2017/10/11/maxresdefault.jpg"
 showonlyimage = false
@@ -8,8 +8,6 @@ tags = []
 title = "Pullman Costa se integró a PasajesChile"
 
 +++
-
-
 Ahora que Pullman Bus Costa Central está dentro de nuestras plataformas** podrás dirigirte a los destinos costeros que desees.**
 
 Pullman Costa ofrece servicios de buses interurbanos entre **Santiago y la zona central litoral de Chile.**
