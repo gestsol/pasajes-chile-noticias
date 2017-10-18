@@ -1,6 +1,6 @@
 baseurl = "/"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-105338401-1"
 languageCode = "es-es"
 theme = "hugo-tracks-theme"
 title = "PasajesChile Noticias"
