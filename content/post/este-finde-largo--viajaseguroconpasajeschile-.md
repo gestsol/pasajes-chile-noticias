@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2017-10-25T18:24:37+00:00"
-image = "/uploads/2017/10/25/Captura de pantalla 2017-10-25 a la(s) 19.00.43.png"
+image = "/uploads/2017/10/25/Captura de pantalla 2017-10-25 a la(s) 19.03.39.png"
 showonlyimage = false
 tags = []
 title = "Este finde largo #ViajaSeguroConPasajesChile "
