@@ -1,5 +1,5 @@
 +++
-date = "2017-10-19T12:42:06+00:00"
+date = "2017-10-19T12:42:06Z"
 draft = true
 image = ""
 showonlyimage = false
