@@ -1,10 +1,10 @@
 +++
 categories = []
 date = "2017-10-26T11:01:27+00:00"
-image = "/uploads/2017/10/26/La noche es la mejor representación de la infinitud del universo. Nos hace creer que nada tiene principio y nada, fin. (1).png"
+image = "/uploads/2017/10/26/La noche es la mejor representación de la infinitud del universo. Nos hace creer que nada tiene principio y nada, fin. (3).png"
 showonlyimage = false
 tags = []
-title = "8 cosas que pasan cuando viajas en bus"
+title = "7 cosas que pasan cuando viajas en bus"
 
 +++
 
@@ -13,7 +13,7 @@ title = "8 cosas que pasan cuando viajas en bus"
 
 Pero andar por las rutas no solo te aleja de lo cotidiano, sino que además puedes **vivir momentos MUY memorables.**
 
-Ahí te dejamos 8** situaciones que te harán sentir identificado porque en algún momento las has vivido:**
+Ahí te dejamos 8 situaciones que te harán sentir identificado porque en algún momento las has vivido:
 
 El niño que siempre llora. Y si está muy cerca de ti...
 
@@ -22,10 +22,6 @@ El niño que siempre llora. Y si está muy cerca de ti...
 Y a veces debes someterte a olores no muy agradables
 
 ![](/uploads/2017/10/26/anigif_enhanced-7900-1430816304-13.gif)
-
-O a veces, si hace mucho calor y el aire acondicionado esté malo puede que...
-
-![](/uploads/2017/10/26/0ZivMd3.gif)
 
 Nunca falta el que ronca
 
@@ -45,4 +41,4 @@ Y típico, nunca falta aquel pasajero que se duerme y su cabeza se tambalea de u
 
 Sin duda alguna **has vivido alguno de estos momentos**, situaciones que sin duda alguna han marcado tus experiencias para hacerlas **memorables para toda la vida. **
 
-_¿Y a ti, qué otras cosas te han pasado al viajar en bus?_
+*¿Y a ti, qué otras cosas te han pasado al viajar en bus?*
