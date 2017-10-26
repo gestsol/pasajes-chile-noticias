@@ -4,7 +4,7 @@ date = "2017-10-26T14:42:28+00:00"
 image = "/uploads/2017/10/26/¿Cómo comprar tu pasaje-.png"
 showonlyimage = false
 tags = []
-title = "¿Cómo comprar en la web de PasajesChile? "
+title = "¿Cómo comprar pasajes en la web de PasajesChile? "
 
 +++
 
