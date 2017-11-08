@@ -54,9 +54,3 @@ Aún faltan detalles que ajustar, por lo que en pocos días podrás disfrutar de
 2\.         Muestra el cupón en tu celular o llévalo impreso a la tienda.
 
 3\.         Canjea tu descuento del Club de Beneficios y listo. 
-
- 
-
-###### La entrega de los beneficios, así como la calidad de estos, son de cargo y de exclusiva responsabilidad de los comercios que están asociados al Club PasajesChile.cl. 
-
-###### En caso de dudas o consultas comunícate al mail [contacto@pasajeschile.cl](mailto:contacto@pasajeschile.cl) 
