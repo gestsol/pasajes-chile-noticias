@@ -4,7 +4,7 @@ date = "2017-11-08T17:40:13+00:00"
 image = "/uploads/2017/11/08/Captura de pantalla 2017-11-08 a la(s) 17.59.34.png"
 showonlyimage = false
 tags = ["Club de Beneficios ", "PasajesChile", "Descuentos"]
-title = "PasajesChile tiene #ClubDeBeneficios "
+title = "PasajesChile tiene Club de Beneficios "
 
 +++
 Al comprar tus pasajes de bus con PasajesChile.cl tienes a tu disposición cientos de descuentos, ofertas y promociones.
