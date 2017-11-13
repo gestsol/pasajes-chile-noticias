@@ -1,7 +1,6 @@
 +++
 categories = ["Noticias "]
 date = "2017-10-11T10:50:59+00:00"
-draft = true
 image = "/uploads/2017/11/13/Horcon_DSC4840-2.jpg"
 showonlyimage = false
 tags = []
