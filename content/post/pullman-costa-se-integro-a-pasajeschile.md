@@ -10,28 +10,30 @@ title = "Pullman Costa se integró a PasajesChile"
 +++
 Pullman Bus Costa Central está dentro de nuestra plataforma. Y ahora, con este servicio puedes dirigirte a los **destinos costeros** que desees.
 
-No solo puedes cotizar tu pasaje de bus a través de nuestra [página web](https://www.pasajeschile.cl/#!/) sino que tienes la posibilidad de adquirir tu pasaje, para el mismo día, en nuestros tótems de autoservicio.
+No solo puedes **cotizar tu pasaje de bus a través de nuestra** [**página web**](https://www.pasajeschile.cl/#!/) sino que tienes la posibilidad de adquirir tu pasaje, para el mismo día, en nuestros t**ótems de autoservicio.**
 
-Ahora, con Pullman Costa tienes el placer de comprar tus pasajes y visitar todos los rincones costeros de nuestro país. ¿Te animas? 
+Ahora, con Pullman Costa tienes el placer de comprar tus pasajes y visitar todos los rincones costeros de nuestro país. ¿Te animas?
 
 Pullman Costa ofrece servicios de buses interurbanos entre **Santiago, capital chilena, y la zona central litoral de Chile.**
 
 Desde Santiago los buses de Pullman Costa Central **parten desde el Terminal de Buses Santiago/Sur.**
 
-¿Cuáles son los destinos que cubre Pullman Bus Costa Central?
+![](/uploads/2017/11/13/IMG_7193.jpg)
 
-Algarrobo             Cartagena               El Quisco    
+> ¿Cuáles son los destinos que cubre Pullman Bus Costa Central?
 
-El Tabo                 Isla Negra                 Las Cruces
+**Algarrobo    /       Cartagena       /       El Quisco**
 
-Limache                Los Andes               Oimué  
+**El Tabo       /        Isla Negra      /        Las Cruces**
 
-Quilpué                San Antonio              San Felipe
+**Limache     /         Los Andes      /        Oimué**
 
-San Sebastián         Santiago      Santuario de los Andes
+**Quilpué     /         San Antonio     /      San Felipe**
 
-Valparaíso              Villa Alemana              Viña del Mar. 
+**San Sebastián /   Santiago  /   Santuario de los Andes**
 
-Compra tus pasajes de bus en línea a través de [www.pasajeschile.cl](https://www.pasajeschile.cl/#!/) o _dirígete a uno de nuestros tótems de autoservicio_, ubicados en el Terminal Sur de Santiago.
+**Valparaíso    /      Villa Alemana    /     Viña del Mar.**
 
-Ahora, con PasajesChile puedes viajar a todos los rincones costeros de Chile.
+**Compra tus pasajes de bus en línea a través de** [**www.pasajeschile.cl**](https://www.pasajeschile.cl/#!/) o _dirígete a uno de nuestros tótems de autoservicio_, ubicados en el Terminal Sur de Santiago.
+
+Ahora, **con PasajesChile puedes viajar a todos los rincones costeros de Chile.**
