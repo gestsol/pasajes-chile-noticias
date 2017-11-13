@@ -80,7 +80,7 @@
   
   <url>
     <loc>/tags/chile/</loc>
-    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
+    <lastmod>2017-11-13T15:39:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,6 +99,12 @@
   <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/costa/</loc>
+    <lastmod>2017-11-13T15:39:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,6 +129,12 @@
   <url>
     <loc>/tags/fotograf%C3%ADa/</loc>
     <lastmod>2017-10-04T18:27:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/litoral-central/</loc>
+    <lastmod>2017-11-13T15:39:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -170,7 +182,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-10-16T16:00:19+00:00</lastmod>
+    <lastmod>2017-11-13T15:39:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
