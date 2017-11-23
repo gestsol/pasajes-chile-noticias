@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2017-11-13T15:39:40+00:00"
+date = "2017-11-13T15:39:40Z"
 image = "/uploads/2017/11/13/Horcon_DSC4840-1.jpg"
 showonlyimage = false
 tags = ["Costa", "Litoral Central", "Chile "]

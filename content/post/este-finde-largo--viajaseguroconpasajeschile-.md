@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2017-10-25T18:24:37+00:00"
+date = "2017-10-25T18:24:37Z"
 image = "/uploads/2017/10/25/Captura de pantalla 2017-10-25 a la(s) 19.03.39.png"
 showonlyimage = false
 tags = []
 title = "Este finde largo #ViajaSeguroConPasajesChile "
 
 +++
-
-
 PasajesChile quiere formar parte de tu viaje, por lo que te queremos recomendar **7 tips para que aproveches al máximo tu fin de semana largo:**
 
 <span style="font-size: 1rem;">1.<b>&nbsp;</b></span>*Al ingresar el equipaje al maletero, asegúrate de recibir tu ticket.*

@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2017-10-26T11:01:27+00:00"
+date = "2017-10-26T11:01:27Z"
 image = "/uploads/2017/10/26/La noche es la mejor representación de la infinitud del universo. Nos hace creer que nada tiene principio y nada, fin. (3).png"
 showonlyimage = false
 tags = []
 title = "7 cosas que pasan cuando viajas en bus"
 
 +++
-
-
 **Viajar en bus es divertido.** Es emocionante la combinación de cientos de paisajes deslizándose por tu ventana mientras disfrutas de una buena música en tus oídos.
 
 Pero andar por las rutas no solo te aleja de lo cotidiano, sino que además puedes **vivir momentos MUY memorables.**

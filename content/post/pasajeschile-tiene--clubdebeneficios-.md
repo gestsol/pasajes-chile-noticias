@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2017-11-08T17:40:13+00:00"
+date = "2017-11-08T17:40:13Z"
 image = "/uploads/2017/11/08/Captura de pantalla 2017-11-08 a la(s) 17.59.34.png"
 showonlyimage = false
 tags = ["Club de Beneficios ", "PasajesChile", "Descuentos"]
