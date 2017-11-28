@@ -79,13 +79,19 @@
   </url>
   
   <url>
+    <loc>/tags/antofagasta/</loc>
+    <lastmod>2017-11-27T17:29:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/chile/</loc>
-    <lastmod>2017-11-13T15:39:40+00:00</lastmod>
+    <lastmod>2017-11-27T17:29:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,6 +116,12 @@
   <url>
     <loc>/tags/costa/</loc>
     <lastmod>2017-11-13T15:39:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cultura/</loc>
+    <lastmod>2017-11-27T17:29:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,6 +152,12 @@
   <url>
     <loc>/tags/litoral-central/</loc>
     <lastmod>2017-11-13T15:39:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/museos/</loc>
+    <lastmod>2017-11-27T17:29:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,8 +204,20 @@
   </url>
   
   <url>
+    <loc>/tags/santiago/</loc>
+    <lastmod>2017-11-27T17:29:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sur/</loc>
+    <lastmod>2017-11-27T17:29:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2017-11-13T15:39:40+00:00</lastmod>
+    <lastmod>2017-11-27T17:29:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
