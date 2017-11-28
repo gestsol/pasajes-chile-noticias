@@ -1,11 +1,11 @@
 +++
 categories = []
-date = "2017-11-28T14:54:42Z"
+date = "2017-11-28T14:54:42+00:00"
 draft = true
 image = ""
 showonlyimage = false
 tags = []
-title = "6 playas del norte que adorarás en verano"
+title = "5 playas del norte que adorarás en verano"
 
 +++
 #### Poco a poco el calor se apodera de las ciudades chilenas. Ya viene la época más soleada y cálida de todas: el verano. Una estación esperada por muchos.
@@ -20,43 +20,45 @@ title = "6 playas del norte que adorarás en verano"
 * Provincia Copiapó
 * Comuna Caldera
 
+![](/uploads/2017/11/28/playa ramada-2.jpg)
+
 Según, es una de las playas más grandes de la región y con pura arena. ¡Se puede acampar!
 
-### 2. Isla Damas
+### 
 
-* Ubicada en la Región de Coquimbo.
-* Provincia Elqui
-* Comuna La Higuera.
-
-Realmente esta isla, es una de las tres islas que forma parte de la Reserva Nacional Pingüino de Humboldt, que vale la pena conocer. Sus aguas cristalinas te encantarán.
-
-### 3. Playa Zapatilla
+### 2. Playa Zapatilla
 
 * Ubicada en la Región de Atacama.
 * Provincia Copiapó
 * Comuna Caldera, de camino a Chañaral.
 
+![](/uploads/2017/11/28/zapatilla.jpg)
+
 A unos 25 kilómetros de Chañaral, por la ruta 5 debes estar atento a una zapatilla pintada en una roca, señal que indica que estás a punto de ingresar a la playa; camino de tierra que se extiende por 2 kilómetros.
 
 Es ideal para niños, familias y adultos porque existen desde pozas pequeñas hasta piscinas más grandes para la tranquilidad y disfrute de todos.
 
-### 4. Playa Las Tacas
+### 3. Playa Las Tacas
 
 * Ubicada en la Región de Coquimbo.
 * Comuna de Coquimbo.
+
+![](/uploads/2017/11/28/Las tacas.jpg)
 
 Ubicada en la comuna de Coquimbo, a 2 kilometros de Totoralillo.
 
 Es una playa de arenas blancas, luminosas y finas; con aguas cristalinas y mar turquesa.  Puedes bucerar, practicar surf y tomar baños de sol. Desde el 2015 posee libre acceso :)
 
-### 5. Bahía Cisne
+### 4. Bahía Cisne
 
 * Ubicada en la Región de Atacama
 * Ciudad Copiapó.
 
+![](/uploads/2017/11/28/Bahia cisne.jpg)
+
 Está situada al sur de Bahía Inglesa. Posee aguas tibias y tranquilas ideales para el baño. Bahía Cisne es considerado como un importante refugio de pingüinos y otras aves marinas.
 
-### 6. Playa La Rinconada de Mejillones
+### 5. Playa La Rinconada de Mejillones
 
 * Ubicada en la Región de Antofagasta.
 
