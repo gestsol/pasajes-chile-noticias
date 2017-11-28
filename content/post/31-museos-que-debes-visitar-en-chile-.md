@@ -57,7 +57,7 @@ Considerado como uno de los museos más antiguos de América. Fundado el 14 de s
 
 ![](/uploads/2017/11/27/museo-nacional-aeronautico.jpg "Créditos: Tripadvisor")
 
-9\. [Museo Artequín](https://es.wikipedia.org/wiki/Museo_Artequin) (Santiago)
+9. [Museo Artequín](https://es.wikipedia.org/wiki/Museo_Artequin) (Santiago)
 
 ![](/uploads/2017/11/27/pabellon-paris-min.jpg "Crédito: Fundación Maradentro")
 
