@@ -3,7 +3,7 @@ categories = []
 date = "2017-11-27T17:29:09+00:00"
 image = "/uploads/2017/11/27/Diseño sin título (2).png"
 showonlyimage = false
-tags = []
+tags = ["Chile", "Cultura", "Museos", "Santiago ", "Antofagasta", "Sur"]
 title = "31 museos que debes visitar en Chile (Parte I)"
 
 +++
