@@ -54,12 +54,14 @@ Es una playa de arenas blancas, luminosas y finas; con aguas cristalinas y mar t
 * Ubicada en la Región de Atacama
 * Ciudad Copiapó.
 
-![](/uploads/2017/11/28/Bahia cisne.jpg)
+![](/uploads/2017/11/29/Bahia cisne.jpg)
 
 Está situada al sur de Bahía Inglesa. Posee aguas tibias y tranquilas ideales para el baño. Bahía Cisne es considerado como un importante refugio de pingüinos y otras aves marinas.
 
 ### 5. Playa La Rinconada de Mejillones
 
 * Ubicada en la Región de Antofagasta.
+
+![](/uploads/2017/11/29/mejillones-1.jpg)
 
 Aguas cálidas, apacibles y oleaje suave que te permitirán bucear, nadar, pescar y contemplar la flora y fauna del lugar :)
