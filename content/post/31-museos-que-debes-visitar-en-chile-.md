@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["cultura"]
 date = "2017-11-27T17:29:09+00:00"
 image = "/uploads/2017/11/27/Diseño sin título (2).png"
 showonlyimage = false
@@ -7,31 +7,31 @@ tags = ["Chile", "Cultura", "Museos", "Santiago ", "Antofagasta", "Sur"]
 title = "31 museos que debes visitar en Chile (Parte I)"
 
 +++
-¿Te has dado cuenta que a través de los museos nos enteramos de muchas cosas de un país? o ¿sabías que los museos más importantes de Chile ahora son edificios  nacionales?
+#### ¿Te has dado cuenta que a través de los museos nos enteramos de muchas cosas de un país? o ¿sabías que los museos más importantes de Chile ahora son edificios  nacionales?
 
-Al visitar los museos nos enteramos sobre la historia, las figuras emblemáticas, historia del arte, sus primeros habitantes... en fin, nos enteramos de su cultura; y Chile tiene un panorama cultural gigante que no puedes dejar de disfrutar. Y algunos están allí, a la vuelta de la esquina.
+Al visitar los museos nos enteramos sobre la historia, las figuras emblemáticas, historia del arte, sus primeros habitantes... en fin, nos enteramos de su cultura; y **Chile tiene un panorama cultural gigante que no puedes dejar de disfrutar.** Y algunos están allí, a la vuelta de la esquina.
 
-Te presentamos 31 museos de Chile, para que le eches un ojo a todos los rincones culturales que puedes disfrutar.
+**Te presentamos 31 museos de Chile**, para que le eches un ojo a todos los rincones culturales que puedes disfrutar.
 
-La lista va desde Antofagasta a Magallanes. ¡Nos vamos de norte a sur!
+**La lista va desde Antofagasta a Magallanes. ¡Nos vamos de norte a sur!**
 
-1. [**Museo Nacional de Bellas Artes (Santiago)**](https://www.google.cl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwig78jEzd_XAhVHIpAKHQ1kATQQFgg6MAc&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMuseo_Nacional_de_Bellas_Artes_(Chile)&usg=AOvVaw0xjDZWtPH6kjS14nivZVHk)
+1. [Museo Nacional de Bellas Artes (Santiago)](https://www.google.cl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwig78jEzd_XAhVHIpAKHQ1kATQQFgg6MAc&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMuseo_Nacional_de_Bellas_Artes_(Chile)&usg=AOvVaw0xjDZWtPH6kjS14nivZVHk)
 
 ![](/uploads/2017/11/30/bellas artes.jpg)
 
-¿Sabías que este museo es el más antiguo de Latinoamérica? Fue fundado el 18 de septiembre de 1880
+##### ¿Sabías que este museo es el más antiguo de Latinoamérica? Fue fundado el 18 de septiembre de 1880
 
 2\. [**Museo Interactivo Mirador (MIM) (Santiago)**](https://es.wikipedia.org/wiki/Museo_Interactivo_Mirador)
 
 ![](/uploads/2017/11/30/2007-12-01624_144.jpg)
 
-Este museo es considerado como el más grande y moderno complejo de entretenimiento cultural en Chile.
+##### Este museo es considerado como el más grande y moderno complejo de entretenimiento cultural en Chile.
 
 3\. [**Museo de La Moda (Santiago)**](https://es.wikipedia.org/wiki/Museo_de_la_Moda_(Santiago_de_Chile))
 
 ![](/uploads/2017/11/30/museo-de-la-moda-2.jpg)
 
-Tiene vestuarios y accesorios que muestran el paso de la moda desde el siglo XV hasta la actualidad.
+##### Tiene vestuarios y accesorios que muestran el paso de la moda desde el siglo XV hasta la actualidad.
 
 4\. [Museo Histórico Nacional ](https://es.wikipedia.org/wiki/Museo_Hist%C3%B3rico_Nacional_(Chile))(Santiago)
 
@@ -45,13 +45,13 @@ Tiene vestuarios y accesorios que muestran el paso de la moda desde el siglo XV 
 
 ![](/uploads/2017/11/30/15.jpg)
 
-Cuenta con colecciones de Bolivia, Argentina, Brasil, Costa Rica, Colombia, Venezuela, Panamá, Paraguay, Perú, Ecuador, Guatemala, México y Chile. Incluyen muestras de tejidos, instrumentos musicales, cestería, alfarería, pintura instintiva, etc.
+##### Cuenta con colecciones de Bolivia, Argentina, Brasil, Costa Rica, Colombia, Venezuela, Panamá, Paraguay, Perú, Ecuador, Guatemala, México y Chile. Incluyen muestras de tejidos, instrumentos musicales, cestería, alfarería, pintura instintiva, etc.
 
 7\. [Museo Nacional de Historia Natural ](https://es.wikipedia.org/wiki/Museo_Nacional_de_Historia_Natural_de_Chile)(Santiago)
 
 ![](/uploads/2017/11/30/1305218096_copia_de_museonac2-528x310.jpg)
 
-Considerado como uno de los museos más antiguos de América. Fundado el 14 de septiembre de 1830.
+##### Considerado como uno de los museos más antiguos de América. Fundado el 14 de septiembre de 1830.
 
 8\. [Museo Nacional Aeronáutico y del Espacio](https://www.google.cl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjEhbDrzt_XAhWDFZAKHd3WD4IQFgg5MAc&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMuseo_Nacional_Aeron%25C3%25A1utico_y_del_Espacio&usg=AOvVaw0ZoE2mZVX7XN39TdiK5Esy) (Santiago)
 
@@ -65,7 +65,7 @@ Considerado como uno de los museos más antiguos de América. Fundado el 14 de s
 
 ![](/uploads/2017/11/30/76NerudaLaChascona.jpg)
 
-Esta es una de las tres viviendas que fueron propiedad del poeta chileno Pablo Neruda, ubicado en Bellavista - Providencia.
+##### Esta es una de las tres viviendas que fueron propiedad del poeta chileno Pablo Neruda, ubicado en Bellavista - Providencia.
 
 11\. [Museo Violeta Parra](https://es.wikipedia.org/wiki/Museo_Violeta_Parra) (Santiago)
 
@@ -83,10 +83,12 @@ Esta es una de las tres viviendas que fueron propiedad del poeta chileno Pablo N
 
 ![](/uploads/2017/11/30/museo-antofagasta-01-530x340.jpg)
 
-Es un museo histórico, arqueológico y geológico público.
+##### Es un museo histórico, arqueológico y geológico público.
 
 15\. [Museo Regional de Atacama](https://es.wikipedia.org/wiki/Museo_Regional_de_Atacama) (Copiapó)
 
 ![](/uploads/2017/11/30/museo-antofagasta-01-530x340-1.jpg)
 
-Su misión es rescatar, documentar, conservar y difundir el Patrimonio Cultural regional de Atacama.
+##### Su misión es rescatar, documentar, conservar y difundir el Patrimonio Cultural regional de Atacama.
+
+¡En un próximo post te contaremos los otros museos que existen en nuestro lindo país! 
