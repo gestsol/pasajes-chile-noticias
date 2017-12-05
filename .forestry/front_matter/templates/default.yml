@@ -1,6 +1,4 @@
 ---
-pages:
-- post/video-example.md
 hide_body: false
 fields:
 - name: date
