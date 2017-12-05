@@ -8,4 +8,14 @@ tags = []
 title = "Video example"
 
 +++
-<video controls controlsList="nodownload"> <source src="[https://app.forestry.io/uploads/2017/12/05/Marvel](https://app.forestry.io/uploads/2017/12/05/Marvel "https://app.forestry.io/uploads/2017/12/05/Marvel")'s%20The%20Avengers-%20Trailer%20(OFFICIAL).mp4" type="video/mp4" /> </video>
+Este es un ejemplo de cómo integrar vídeos en un post de forestry usando como referencia una url random de youtube tal como https://www.youtube.com/watch?v=6ZfuNTqbHE8.
+
+Por tanto, usaremos el siguiente shortcode, colocando youtube seguido del ID del vídeo, en cualquier parte del artículo.
+
+Por ejemplo:
+
+![](/uploads/2017/12/05/Captura de pantalla 2017-12-05 a la(s) 18.08.15.png)
+
+y se verá de la siguiente manera cuando la página sea publicada.
+
+{{< youtube 6ZfuNTqbHE8 >}}
