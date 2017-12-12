@@ -33,4 +33,4 @@ Además, puedes contar con ayudantes dispuestas a asistirte mientras efectúas t
 
 **Échale un vistazo al video explicativo del sistema:**
 
-{{< youtubef0MXAkbwZhY >}}
+{{< youtube f0MXAkbwZhY >}}
