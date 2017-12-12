@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compra on PasajesChile Noticias</title>
+    <link>/tags/compra/</link>
+    <description>Recent content in Compra on PasajesChile Noticias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>&amp;copy;2017 PasajesChile</copyright>
+    <lastBuildDate>Mon, 20 Nov 2017 15:32:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/compra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Cómo comprar pasajes en los tótems?</title>
+      <link>/post/-como-comprar-pasajes-en-los-totems-/</link>
+      <pubDate>Mon, 20 Nov 2017 15:32:10 +0000</pubDate>
+      
+      <guid>/post/-como-comprar-pasajes-en-los-totems-/</guid>
+      <description>Ahora, con PasajesChile no solo puedes comprar tus pasajes de bus desde tu computador o dispositivo móvil, sino que tienes a tu disposición tótems de autoservicio
+ Pero te preguntarás qué función cumplen estos aparatos. Bueno, básicamente sirven como oficinas virtuales de las líneas de buses que se encuentran hoy día en el terminal Sur de Santiago.
+A corto plazo PasajesChile extenderá los tótems a otros terminales y estaciones de Metro, tanto de Santiago como en regiones.</description>
+    </item>
+    
+  </channel>
+</rss>
