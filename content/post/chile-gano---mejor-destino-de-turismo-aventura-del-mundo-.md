@@ -7,7 +7,7 @@ tags = ["Gana Chile", "Destino Natural", "Pasajes", "Chile "]
 title = "Chile ganó: \"mejor destino de turismo aventura del mundo\""
 
 +++
-> ## Por segundo año consecutivo nuestro país fue ganador del _World Travel Awards_, conocido como los "Oscar" del turismo.
+> ## **Por segundo año consecutivo nuestro país fue ganador del _World Travel Awards_, conocido como los "Oscar" del turismo.**
 
 {{< youtube r1oD3rLxgv4 >}}
 
