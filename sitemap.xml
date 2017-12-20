@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/8-regalos-para-viajeros-/</loc>
+    <lastmod>2017-12-19T18:57:52+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/dia-internacional-del-emigrante--celebrando-los-derechos-y-libertades/</loc>
     <lastmod>2017-12-18T18:25:53+00:00</lastmod>
   </url>
@@ -205,6 +210,12 @@
   </url>
   
   <url>
+    <loc>/tags/navidad/</loc>
+    <lastmod>2017-12-19T18:57:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/norte/</loc>
     <lastmod>2017-11-28T14:54:42+00:00</lastmod>
     <priority>0</priority>
@@ -230,7 +241,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-12-18T18:25:53+00:00</lastmod>
+    <lastmod>2017-12-19T18:57:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -254,13 +265,19 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-12-18T18:25:53+00:00</lastmod>
+    <lastmod>2017-12-19T18:57:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/primavera/</loc>
     <lastmod>2017-10-16T16:00:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regalos/</loc>
+    <lastmod>2017-12-19T18:57:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -284,7 +301,7 @@
   
   <url>
     <loc>/categories/tips/</loc>
-    <lastmod>2017-10-01T20:36:08+00:00</lastmod>
+    <lastmod>2017-12-19T18:57:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
