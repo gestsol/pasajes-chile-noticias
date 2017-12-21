@@ -1,6 +1,6 @@
 +++
 categories = ["Cultura"]
-date = "2017-11-28T14:54:42+00:00"
+date = "2017-11-28T14:54:42Z"
 image = "/uploads/2017/11/29/5.png"
 showonlyimage = false
 tags = ["Playa", "Norte", "Chile", "Verano"]

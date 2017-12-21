@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2017-12-01T11:44:25+00:00"
+date = "2017-12-01T11:44:25Z"
 draft = true
 image = ""
 showonlyimage = false

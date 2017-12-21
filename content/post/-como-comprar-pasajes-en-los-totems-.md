@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2017-11-20T15:32:10+00:00"
+date = "2017-11-20T15:32:10Z"
 image = "/uploads/2017/11/20/¿Cómo comprar tu pasaje_.png"
 showonlyimage = false
 tags = ["Compra ", "Pasajes de bus", "Chile"]

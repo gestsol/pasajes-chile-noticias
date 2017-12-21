@@ -1,6 +1,6 @@
 +++
 categories = ["Noticias"]
-date = "2017-11-29T15:45:26+00:00"
+date = "2017-11-29T15:45:26Z"
 image = "/uploads/2017/11/29/Santiago.png"
 showonlyimage = false
 tags = []

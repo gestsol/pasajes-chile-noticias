@@ -1,6 +1,6 @@
 +++
 categories = ["noticias"]
-date = "2017-12-13T11:51:52+00:00"
+date = "2017-12-13T11:51:52Z"
 image = "/uploads/2017/12/13/Chile_ MEJOR DESTINO DE TURISMO AVENTURA DEL MUNDO.png"
 showonlyimage = false
 tags = ["Gana Chile", "Destino Natural", "Pasajes", "Chile "]

@@ -1,6 +1,6 @@
 +++
 categories = ["cultura"]
-date = "2017-11-27T17:29:09+00:00"
+date = "2017-11-27T17:29:09Z"
 image = "/uploads/2017/11/27/Diseño sin título (2).png"
 showonlyimage = false
 tags = ["Chile", "Cultura", "Museos", "Santiago ", "Antofagasta", "Sur"]
