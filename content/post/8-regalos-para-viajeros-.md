@@ -33,7 +33,7 @@ Para 1 o 2 personas. Puedes conseguirlas desde los $30.000 en [Falabella](https:
 
 Desde los $5000 en tiendas. Nosotros echamos un vistazo y las vimos en [Casaideas.cl ](http://www.casaideas.cl/zapatos-de-agua-37-38-3211874000042/p) y repetimos: si estás de cumpleaños en diciembre, la tienda te regala un 20% de descuento.
 
- ![](/uploads/2017/12/21/cosa5.png)
+![](/uploads/2017/12/21/cosa5.png)
 
 **Cargadores portátiles:**
 
@@ -98,5 +98,7 @@ Puedes conseguirla en [Falabella.cl ](https://www.falabella.com/falabella-cl/pro
 Échale un vistazo en [Falabella.cl ](https://www.falabella.com/falabella-cl/product/5689780/Organizadores-Expandibles%C2%A0/5689780)
 
 **_¡Corre, que aún hay oportunidad! :D_**
+
+Y si no te convence, los [pasajes de bus](https://www.pasajeschile.cl/#!/) sieeeempre serán un buen regalo. 
 
 ¡Feliiiz navidad!
