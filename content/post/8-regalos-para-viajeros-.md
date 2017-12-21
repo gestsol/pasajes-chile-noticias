@@ -97,8 +97,8 @@ Puedes conseguirla en [Falabella.cl ](https://www.falabella.com/falabella-cl/pro
 
 Échale un vistazo en [Falabella.cl ](https://www.falabella.com/falabella-cl/product/5689780/Organizadores-Expandibles%C2%A0/5689780)
 
-**_¡Corre, que aún hay oportunidad! :D_**
+**_¡Corre, que aún hay oportunidad!_** 
 
-Y si no te convence, los [pasajes de bus](https://www.pasajeschile.cl/#!/) sieeeempre serán un buen regalo. 
+Y si no te convence ninguno, los [pasajes de bus](https://www.pasajeschile.cl/#!/) sieeeempre serán un buen regalo. :D
 
 ¡Feliiiz navidad!
