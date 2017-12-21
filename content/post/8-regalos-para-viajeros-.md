@@ -47,7 +47,9 @@ Para unos no es muy cómodo, para otros... una pequeña comodidad cuando se trat
 
 Puedes conseguirlos en[ Casaideas.cl ](http://www.casaideas.cl/cojin-cervical-micropelotitas-3213034000039/p)
 
-![](/uploads/2017/12/20/Captura de pantalla 2017-12-20 a la(s) 11-1.png)![](/uploads/2017/12/20/Captura de pantalla 2017-12-20 a la(s) 11.23.58.png)
+![](/uploads/2017/12/20/Captura de pantalla 2017-12-20 a la(s) 11-1.png)
+
+![](/uploads/2017/12/21/Captura de pantalla 2017-12-20 a la(s) 11.png)
 
 **Kindle**
 
@@ -83,7 +85,7 @@ Esencial y práctico para todo viajero.
 
 En [Sodimac](http://www.sodimac.cl/sodimac-cl/product/2318210/Adaptador-Universal-con-Enchufe/2318210) y en [Casa Royal](https://www.casaroyal.cl/producto/adaptador-de-enchufe-universal-para-viaje/) conseguimos adaptadores económicos.
 
-![](/uploads/2017/12/20/Captura de pantalla 2017-12-20 a la(s) 12.47.05.png)
+![](/uploads/2017/12/21/Captura de pantalla 2017-12-20 a la(s) 12.png)
 
 ![](/uploads/2017/12/20/Captura de pantalla 2017-12-20 a la(s) 12-2.png)
 
@@ -101,4 +103,4 @@ Puedes conseguirla en [Falabella.cl ](https://www.falabella.com/falabella-cl/pro
 
 **_¡Corre, que aún hay oportunidad! :D_**
 
-¡Feliiiz navidad! 
+¡Feliiiz navidad!
