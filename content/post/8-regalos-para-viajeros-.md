@@ -19,7 +19,7 @@ Los precios que a continuación veas, están en pesos.
 
 **Mochilas plegables:**
 
-Puedes conseguirlas en [Casaideas.cl](http://www.casaideas.cl/accesorios-de-temporada/bolsos-y-mochilas) y si estás de cumpleaños este mes, la tienda te otorga un 20% de descuento. ;)
+Puedes conseguirlas en [Casaideas.cl](http://www.casaideas.cl/accesorios-de-temporada/bolsos-y-mochilas) y si estás de cumpleaños este mes, la tienda te otorga un 20% de descuento.
 
 ![](/uploads/2017/12/20/mochila.png)
 
