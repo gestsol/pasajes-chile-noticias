@@ -1064,7 +1064,8 @@ body {
   line-height: 1.42857;
   color: #333333;
   background: url('/img/blog_pasajeschile_background_3.svg');
-  background-attachment: fixed; }
+  background-attachment: fixed;
+  background-size: cover; }
 
 input,
 button,
