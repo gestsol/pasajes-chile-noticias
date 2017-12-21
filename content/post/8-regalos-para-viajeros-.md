@@ -33,7 +33,7 @@ Para 1 o 2 personas. Puedes conseguirlas desde los $30.000 en [Falabella](https:
 
 Desde los $5000 en tiendas. Nosotros echamos un vistazo y las vimos en [Casaideas.cl ](http://www.casaideas.cl/zapatos-de-agua-37-38-3211874000042/p) y repetimos: si estás de cumpleaños en diciembre, la tienda te regala un 20% de descuento.
 
- ![](/uploads/2017/12/21/4-1.png)
+ ![](/uploads/2017/12/21/cosa5.png)
 
 **Cargadores portátiles:**
 
@@ -55,7 +55,7 @@ Muchos son apasionados de la lectura y en sus viajes se topan con la frustració
 
 Por otro lado puedes darle un Kindle, una pequeña tableta (más económica que el resto) donde puede leer sus libros favoritos descargados directamente desde una computadora y web. La puedes conseguir en [Ripley.cl ](https://simple.ripley.cl/kindle-touch-8-generacion-4gb-wifi-color-negro-mpm00000134521#calificaciones)
 
-![](/uploads/2017/12/21/12.png)
+![](/uploads/2017/12/21/12-1.png)
 
 **Navajas o cortaplumas**
 
@@ -63,19 +63,19 @@ Súper útil para todo momento que se necesite.
 
 Aquí, el [enlace](https://www.falabella.com/falabella-cl/product/5266662/Cortapluma-Tech-Tool-City-7/5266662) de este producto.
 
-![](/uploads/2017/12/21/15.png)
+![](/uploads/2017/12/21/cosa15.png)
 
 **Organizador de cables**
 
 Lo puedes conseguir en [Casaideas.cl](http://www.casaideas.cl/organizador-de-cables-3214524000010/p)
 
-![](/uploads/2017/12/21/11.png)
+![](/uploads/2017/12/21/cosa11.png)
 
 **Fundas de mochila**
 
 Resguarda los equipajes en días lluviosos o climas muy húmedos. Conseguimos una [pagina donde puedes conseguirlos desde los $4000. ](https://www.trekkinn.com/montana/mochilas-y-maletas-fundas-para-la-lluvia/11470/s)
 
-![](/uploads/2017/12/21/16.png)
+![](/uploads/2017/12/21/cosa2.png)
 
 **Adaptador de enchufes universal**
 
@@ -83,17 +83,17 @@ Esencial y práctico para todo viajero.
 
 En [Sodimac](http://www.sodimac.cl/sodimac-cl/product/2318210/Adaptador-Universal-con-Enchufe/2318210) y en [Casa Royal](https://www.casaroyal.cl/producto/adaptador-de-enchufe-universal-para-viaje/) conseguimos adaptadores económicos.
 
-![](/uploads/2017/12/21/1.png)
+![](/uploads/2017/12/21/cosa1.png)
 
 **Pesa de maletas**
 
-![](/uploads/2017/12/21/8.png)
+![](/uploads/2017/12/21/cosa4.png)
 
 Puedes conseguirla en [Falabella.cl ](https://www.falabella.com/falabella-cl/product/5691132/Pesa-Manual-de-Equipaje/5691132)
 
 **Organizador expandibles**
 
-![](/uploads/2017/12/21/7.png)
+![](/uploads/2017/12/21/cosa3-1.png)
 
 Échale un vistazo en [Falabella.cl ](https://www.falabella.com/falabella-cl/product/5689780/Organizadores-Expandibles%C2%A0/5689780)
 
