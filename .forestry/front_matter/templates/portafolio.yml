@@ -1,5 +1,6 @@
 ---
 pages:
+- post/rtj.md
 - post/baltinache--las-lagunas-escondidas-de-atacama.md
 - post/bird-cafe--.md
 - post/-como-comprar-pasajes-en-los-totems-.md
@@ -26,7 +27,6 @@ pages:
 - post/pasajeschile-llego-para-facilitar-la-vida-de-los-pasajeros.md
 - post/portafolio.md
 - post/5-cosas-para-aprovechar-mientras-viajas-en-bus.md
-- about/erg.md
 hide_body: false
 fields:
 - type: text
