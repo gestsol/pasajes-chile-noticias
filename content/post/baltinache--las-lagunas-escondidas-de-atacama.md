@@ -41,3 +41,7 @@ Luego continuar hacia Licancabur por la Ruta 23 y estará señalizado para las L
   #### **¿Cómo debo ir?**
 
   Te recomendamos visitar las lagunas con calzado cómodo, traje de baño, toalla, sandalias, bloqueador solar, gorro para el sol, agua y ropa cómoda.
+
+  Y por último te preguntarás cómo se formaron estas lagunas...
+
+Hace millones de años, el Salar de Atacama, el más grande de Chile, fue un lago que hace millones de años quedó aislado y seco. Por ende, hoy existen diversas lagunas que son consideradas grandes atractivos paisajísticos del norte. 
