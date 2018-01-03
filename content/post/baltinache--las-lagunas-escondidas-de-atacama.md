@@ -28,6 +28,6 @@ Los paisajes que rodean a la laguna Baltinache y a las otras 6 lagunas son incre
 
 ##### La laguna Baltinache se encuentra a 19 kilómetros de San Pedro de Atacama.
 
-Dirigirse por la ruta B245 hacia Guatín – Linzor.
+Dirigirse por la ruta B245 hacia Guatín/ Linzor.
 
 Luego continuar hacia Licancabur por la Ruta 23 y estará señalizado para las Lagunas Escondidas, conocidas también como Lagunas Vírgenes o Laguna Baltinache.
