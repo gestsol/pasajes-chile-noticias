@@ -18,6 +18,8 @@ Baltinache forma parte de las conocidas lagunas Escondidas y sus aguas salinas y
 
 **Las Lagunas Escondidas de Baltinache son aguas turquesas compuestas por una gruesa capa de sal**, característica que realza aún más el color del agua.
 
+![](/uploads/2018/01/03/laguna1.jpg)
+
 Los paisajes que rodean a la laguna Baltinache y a las otras 6 lagunas son increíbles, sobre todo al atardecer: cuando el sol se despide nos brinda un paisaje rojizo en toda la zona, una maravilla que hay en Chile.
 
 {{< youtube yNXkoK5bLks >}}
