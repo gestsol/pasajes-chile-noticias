@@ -1,6 +1,4 @@
 ---
-pages:
-- about/ftj.md
 hide_body: false
 fields:
 - name: date

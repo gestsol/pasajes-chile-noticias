@@ -5,7 +5,7 @@ fields:
   label: Draft
   type: boolean
   hidden: false
-  default: true
+  default: false
 - name: image
   label: Image
   type: text
