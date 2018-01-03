@@ -1,6 +1,7 @@
 +++
 categories = ["cultura"]
 date = "2018-01-02T18:28:32+00:00"
+draft = true
 image = "/uploads/2018/01/02/Lagunas Baltinache.jpg"
 showonlyimage = false
 tags = []
@@ -25,8 +26,18 @@ Los paisajes que rodean a la laguna Baltinache y a las otras 6 lagunas son incre
 
 #### **¿Cómo llegar?**
 
-##### La laguna Baltinache se encuentra a 19 kilómetros de San Pedro de Atacama.
+###### La laguna Baltinache se encuentra a 19 kilómetros de San Pedro de Atacama.
 
 Dirigirse por la ruta B245 hacia Guatín/ Linzor.
 
 Luego continuar hacia Licancabur por la Ruta 23 y estará señalizado para las Lagunas Escondidas, conocidas también como Lagunas Vírgenes o Laguna Baltinache.
+
+#### **Consejos para visitar las Lagunas Escondidas de Baltinache**
+
+* Ponte protector solar después de sumergirte en la laguna. ¿Por qué? Los aceites de los protectores pueden dañar el ecosistema del agua, así no contaminas el recurso. 
+* Usa chalas para caminar por los alrededores, ya que las piedras pueden hacerte daño. 
+* En cuanto culmine tu paseo, llévate contigo toda la basura que hayas generado. 
+
+  #### **¿Cómo debo ir?**
+
+  Te recomendamos visitar las lagunas con calzado cómodo, traje de baño, toalla, sandalias, bloqueador solar, gorro para el sol, agua y ropa cómoda.
