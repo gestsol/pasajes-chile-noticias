@@ -37,7 +37,7 @@ Una maravilla escondida en el sur de Chile. Este glaciar es uno de los hitos tur
 
 ![](/uploads/2018/01/05/San Pedro 0117.jpg)
 
-Al norte de Chile se encuentra esta fortaleza construída hace más de 700 años por el pueblo atacameño para defenderse de invasores. 
+Al norte de Chile se encuentra esta fortaleza construída hace más de 700 años por el pueblo atacameño para defenderse de invasores.
 
 Desde su mirador, es fácil entender porqué en el siglo XIV los pueblos atacameños lo escogieron para erigir su ciudadela-fortaleza.
 
@@ -45,20 +45,20 @@ Desde su mirador, es fácil entender porqué en el siglo XIV los pueblos atacame
 
 ![](/uploads/2018/01/05/57bb1a2fed4f92803ce3791acfefae9c.jpg)
 
-Estas cavernas, formadas de carbonato de calcio, lucen como mármol tras 6 mil años de impacto de las olas. 
+Estas cavernas, formadas de carbonato de calcio, lucen como mármol tras 6 mil años de impacto de las olas.
 
 **Torres del Paine**
 
-![](/uploads/2018/01/05/56c709a213ff7504197201qh5uponk.jpg)
+![](/uploads/2018/01/05/56c709a213ff7504197201qh5uponk-1.jpg)
 
-Considerada como la octava maravilla del mundo...en el extremo sur de Chile, en la Región de Magallanes y la Antártica chilena podrás conseguir aguas turquesas, alucinantes cuernos de granito y glaciares. 
+Considerada como la octava maravilla del mundo...en el extremo sur de Chile, en la Región de Magallanes y la Antártica chilena podrás conseguir aguas turquesas, alucinantes cuernos de granito y glaciares.
 
 **Valparaíso**
 
 ![](/uploads/2018/01/05/loic-mermilliod-229962 (1).jpg)
 
-Considerada como la Ciudad Patrimonio Cultural de la Humanidad y la Capital de la Institucionalidad Cultural de Chile, esta pintoresca ciudad esconde callejones y escaleras donde los turistas se pierden entre tanto arte y arquitecturas bohemias. 
+Considerada como la Ciudad Patrimonio Cultural de la Humanidad y la Capital de la Institucionalidad Cultural de Chile, esta pintoresca ciudad esconde callejones y escaleras donde los turistas se pierden entre tanto arte y arquitecturas bohemias.
 
-### No esperes más y viaja a tu destino mágico junto a @PasajesChile.cl 
+### No esperes más y viaja a tu destino mágico junto a @PasajesChile.cl
 
 ##### 
