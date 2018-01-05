@@ -49,7 +49,7 @@ Estas cavernas, formadas de carbonato de calcio, lucen como mármol tras 6 mil a
 
 **Torres del Paine**
 
-![](/uploads/2018/01/05/56c709a213ff7504197201qh5uponk-1.jpg)
+![](/uploads/2018/01/05/56c709a213ff7504197201qh5uponk-2.jpg)
 
 Considerada como la octava maravilla del mundo...en el extremo sur de Chile, en la Región de Magallanes y la Antártica chilena podrás conseguir aguas turquesas, alucinantes cuernos de granito y glaciares.
 
