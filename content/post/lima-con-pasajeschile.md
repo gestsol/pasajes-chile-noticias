@@ -9,7 +9,7 @@ title = "Viaja a Lima con #PasajesChile"
 +++
 > #### La **capital peruana ahora está en** [**nuestra web**](https://www.pasajeschile.cl/#!/)
 
-¡PasajesChile expandió limites, y nos sentimos a gusto de anunciarles que #PasajesChile ahora también llega a rutas peruanas!
+¡PasajesChile expandió limites, y nos sentimos a gusto de anunciarles que ahora también llegamos a rutas peruanas!
 
 Los boletos de bus desde Chile a Lima son **vendidos por la empresa de bus Andesmar Chile.** 
 
