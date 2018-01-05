@@ -7,11 +7,11 @@ tags = []
 title = "7 lugares que demuestran que Chile es mágico"
 
 +++
-El país sureño es la tierra de los extremos: desde los glaciares ubicados en el extremos sur de la Patagonia hasta el desierto de Atacama - el más árido del mundo-.
+> **El país sureño es la tierra de los extremos: desde los glaciares ubicados en el extremos sur de la Patagonia hasta el desierto de Atacama - el más árido del mundo-.**
 
 De sur a norte, o de norte a sur, todo Chile va a sorprenderte. Este país tiene paisajes para todos los gustos y aficiones: desde deportistas extremos, amantes del vino, del desierto, playas, montañas o las grandes ciudades.
 
-A continuación te mostramos 10 destinos que te sorprenderán y te afirmarán por qué Chile es mágico:
+A continuación te mostramos **10 destinos que hacen de Chile algo mágico:**
 
 Empecemos con el Desierto de Atacama, el **Valle de La Luna:**
 
@@ -58,5 +58,7 @@ Considerada como la octava maravilla del mundo...en el extremo sur de Chile, en 
 ![](/uploads/2018/01/05/loic-mermilliod-229962 (1).jpg)
 
 Considerada como la Ciudad Patrimonio Cultural de la Humanidad y la Capital de la Institucionalidad Cultural de Chile, esta pintoresca ciudad esconde callejones y escaleras donde los turistas se pierden entre tanto arte y arquitecturas bohemias. 
+
+### No esperes más y viaja a tu destino mágico junto a @PasajesChile.cl 
 
 ##### 
