@@ -13,7 +13,7 @@ title = "Viaja a Lima con #PasajesChile"
 
 Los boletos de bus desde Chile a Lima son **vendidos por la empresa de bus Andesmar Chile.** 
 
-La distancia entre Santiago y Lima es de 3,585 kilómetros y el viaje demora alrededor de cuatro horas.
+Desde Chile a Lima son 3,585 kilómetros y el viaje en bus hacia la ciudad peruana demora alrededor de 4 horas.
 
 {{< youtube [40PBU5iAX54](https://youtu.be/40PBU5iAX54 "https://youtu.be/40PBU5iAX54") >}}
 
