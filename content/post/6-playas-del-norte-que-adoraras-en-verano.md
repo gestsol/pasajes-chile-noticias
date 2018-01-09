@@ -1,6 +1,6 @@
 +++
 categories = ["Cultura"]
-date = "2017-11-28T14:54:42Z"
+date = "2017-11-28T14:54:42+00:00"
 image = "/uploads/2017/11/29/5.png"
 showonlyimage = false
 tags = ["Playa", "Norte", "Chile", "Verano"]
@@ -9,7 +9,7 @@ title = "5 playas del norte que adorarás en verano"
 +++
 #### Poco a poco el calor se apodera de las ciudades chilenas. **Ya viene la época más soleada y cálida de todas: el verano.** Una estación esperada por muchos.
 
-#### Sabemos que el cuerpo pide refrescamiento y qué mejor forma que **hundirse en las playas nortinas de nuestro país.**
+#### Refresca tu cuerpo y sumérgete **en las playas nortinas de nuestro país.**
 
 #### Esta vez nos fuimos al norte de Chile para recomendarles **5 playas muy ricas** que disfrutarán solos, entre amigos o en familia… ¡son divinas!
 
