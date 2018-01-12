@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on PasajesChile Noticias</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on PasajesChile Noticias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>&amp;copy;2017 PasajesChile</copyright>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cultura</title>
+      <link>/categories/cultura/</link>
+      <pubDate>Tue, 02 Jan 2018 18:28:32 +0000</pubDate>
+      
+      <guid>/categories/cultura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noticias</title>
+      <link>/categories/noticias/</link>
+      <pubDate>Fri, 05 Jan 2018 18:26:14 +0000</pubDate>
+      
+      <guid>/categories/noticias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>/categories/tips/</link>
+      <pubDate>Thu, 11 Jan 2018 16:17:05 +0000</pubDate>
+      
+      <guid>/categories/tips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
