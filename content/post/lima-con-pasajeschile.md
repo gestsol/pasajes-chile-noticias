@@ -11,11 +11,11 @@ title = "Viaja a Lima con #PasajesChile"
 
 ¡PasajesChile expandió limites, y nos sentimos a gusto de anunciarles que ahora también llegamos a rutas peruanas!
 
-Los boletos de bus desde Chile a Lima son **vendidos por la empresa de bus Andesmar Chile.** 
+Los boletos de bus desde Chile a Lima son **vendidos por la empresa de bus Andesmar Chile.**
 
 Desde Chile a Lima son 3,585 kilómetros y el viaje en bus hacia la ciudad peruana demora alrededor de 4 horas.
 
-{{< youtube [40PBU5iAX54](https://youtu.be/40PBU5iAX54 "https://youtu.be/40PBU5iAX54") >}}
+{{< youtube 40PBU5iAX54 >}}
 
 ##### ¡Lima es considerada como la[ capital Gastronómica de América Latina](https://www.viviendoporelmundo.com/lima-la-capital-gastronomica-de-america/)!
 
