@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Costa on PasajesChile Noticias</title>
+    <link>/tags/costa/</link>
+    <description>Recent content in Costa on PasajesChile Noticias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>&amp;copy;2017 PasajesChile</copyright>
+    <lastBuildDate>Mon, 13 Nov 2017 15:39:40 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/costa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pullman Costa se integró a PasajesChile</title>
+      <link>/post/pullman-costa-se-integro-a-pasajeschile/</link>
+      <pubDate>Mon, 13 Nov 2017 15:39:40 +0000</pubDate>
+      
+      <guid>/post/pullman-costa-se-integro-a-pasajeschile/</guid>
+      <description>Pullman Bus Costa Central está dentro de nuestra plataforma. Y ahora, con este servicio puedes dirigirte a los destinos costeros que desees.
+No solo puedes cotizar tu pasaje de bus a través de nuestra página web sino que tienes la posibilidad de adquirir tu pasaje, para el mismo día, en nuestros tótems de autoservicio.
+Ahora, con Pullman Costa tienes el placer de comprar tus pasajes y visitar todos los rincones costeros de nuestro país.</description>
+    </item>
+    
+  </channel>
+</rss>
