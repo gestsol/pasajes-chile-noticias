@@ -13,7 +13,7 @@ Mendoza, ciudad que te invita a reencontrarte con la **naturaleza**, su **histor
 
 Ahora, con #PasajesChile puedes viajar en bus a **Mendoza.**
 
-![](/uploads/2018/01/05/Captura de pantalla 2018-01-05 a la(s) 18.png)
+
 
 Estás a **5 horas, 18 minutos y 364 kilómetros de distancia**... -más cerca que Antofagasta- [Y con #PasajesChile puedes viajar en tan  solo tres clics. ](https://www.pasajeschile.cl/#!/)
 
