@@ -19,6 +19,6 @@ Estás a **5 horas, 18 minutos y 364 kilómetros de distancia**... -más cerca q
 
 Atrévete y escápate de la rutina chilena para respirar nuevos aires.
 
-{{< youtube [dDGWtboG8a8](https://youtu.be/dDGWtboG8a8 "https://youtu.be/dDGWtboG8a8") >}}
+{{< youtube dDGWtboG8a8 >}}
 
 #### [Anticipa y compra tu pasaje de bus en www.pasajeschile.cl ](https://www.pasajeschile.cl/#!/)
