@@ -7,7 +7,7 @@ tags = []
 title = "Mendoza con #PasajesChile "
 
 +++
-> #### ¡Viaja a la Capital Internacional del Vino!
+#### ¡Viaja a la Capital Internacional del Vino!
 
 Mendoza, ciudad que te invita a reencontrarte con la **naturaleza**, su **historia** y los nuevos amigos.
 
