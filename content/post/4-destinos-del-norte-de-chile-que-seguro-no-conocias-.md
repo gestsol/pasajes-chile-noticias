@@ -13,7 +13,7 @@ Cada cierto tiempo admiramos los bellos retratos de San Pedro de Atacama, las Du
 
 De esta manera queremos mostrarte **4 rincones del norte de Chile** que son bellos y probablemente te encantarán:
 
-1. **Cerro Milagro.**
+1. **Cerro Milagro**
 
 ![](/uploads/2018/01/12/Cerro Alegre.jpg)
 
