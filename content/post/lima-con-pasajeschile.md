@@ -1,6 +1,6 @@
 +++
 categories = ["noticias"]
-date = "2018-01-05T16:52:48+00:00"
+date = "2018-01-05T16:52:48Z"
 image = "/uploads/2018/01/05/dan-gold-220227.jpg"
 showonlyimage = false
 tags = []

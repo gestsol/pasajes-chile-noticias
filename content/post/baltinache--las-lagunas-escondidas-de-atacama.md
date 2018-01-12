@@ -1,6 +1,6 @@
 +++
 categories = ["cultura"]
-date = "2018-01-02T18:28:32+00:00"
+date = "2018-01-02T18:28:32Z"
 image = "/uploads/2018/01/02/Lagunas Baltinache.jpg"
 showonlyimage = false
 tags = []

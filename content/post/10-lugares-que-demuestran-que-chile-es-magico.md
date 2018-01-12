@@ -1,6 +1,6 @@
 +++
 categories = ["tips"]
-date = "2018-01-05T12:00:46+00:00"
+date = "2018-01-05T12:00:46Z"
 image = "/uploads/2018/01/05/7 destinos mágicos de Chile.png"
 showonlyimage = false
 tags = []

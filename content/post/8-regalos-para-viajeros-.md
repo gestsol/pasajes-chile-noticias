@@ -1,6 +1,6 @@
 +++
 categories = ["tips"]
-date = "2017-12-19T18:57:52+00:00"
+date = "2017-12-19T18:57:52Z"
 image = "/uploads/2017/12/20/kira-auf-der-heide-475623.jpg"
 showonlyimage = false
 tags = ["regalos", "navidad"]

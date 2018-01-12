@@ -1,6 +1,6 @@
 +++
 categories = ["tips"]
-date = "2018-01-11T16:17:05+00:00"
+date = "2018-01-11T16:17:05Z"
 image = "/uploads/2018/01/12/Diseño sin título (9).png"
 showonlyimage = false
 tags = []
