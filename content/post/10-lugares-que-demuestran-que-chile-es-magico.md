@@ -1,6 +1,6 @@
 +++
 categories = ["tips"]
-date = "2018-01-05T12:00:46Z"
+date = "2018-01-05T12:00:46+00:00"
 image = "/uploads/2018/01/05/7 destinos mágicos de Chile.png"
 showonlyimage = false
 tags = []
@@ -11,7 +11,7 @@ title = "7 lugares que demuestran que Chile es mágico"
 
 De sur a norte, o de norte a sur, todo Chile va a sorprenderte. Este país tiene paisajes para todos los gustos y aficiones: desde deportistas extremos, amantes del vino, del desierto, playas, montañas o las grandes ciudades.
 
-A continuación te mostramos **10 destinos que hacen de Chile algo mágico:**
+A continuación te mostramos **7 destinos que hacen de Chile algo mágico:**
 
 Empecemos con el Desierto de Atacama, el **Valle de La Luna:**
 
