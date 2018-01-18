@@ -40,13 +40,13 @@ Dato curioso: considerada como una de las 3 mejores termas de Chile.
 
 ![](/uploads/2018/01/18/Termas de Puritama-min.jpg)
 
-3.Termas del Plomo, San José de Maipo (Región de Metropolitana)
+4.Termas del Plomo, San José de Maipo (Región de Metropolitana)
 
    A 68 kilómetros de San José de Maipo, se ubican estas rústicas pozas naturales de aguas termales provienen del Volcán San José que están insertas en medio de la Cordillera de los Andes, El lugar es maravilloso. Durante el camino podrá deleitarse con las verdes aguas del río El Yeso y el propio Embalse El Yeso, de impactante envergadura.
 
 ![](/uploads/2018/01/18/Termas del Plomo-min.jpg)
 
-3.Termas Vergara, Panguipulli. (Región de los Ríos)
+5.Termas Vergara, Panguipulli. (Región de los Ríos)
 
    Cerca del Parque Nacional de Villarrica, estas termas posee seis piscinas de agua termal con diferentes temperaturas y tobogán acuático de 20 metros. 
 
