@@ -1,7 +1,6 @@
 +++
 categories = ["destinos"]
 date = "2018-01-18T17:15:30+00:00"
-draft = true
 image = "/uploads/2018/01/18/img_1814.jpg"
 showonlyimage = false
 tags = []
