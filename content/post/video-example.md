@@ -1,6 +1,7 @@
 +++
 categories = []
 date = "2017-12-05T16:41:04+00:00"
+draft = true
 image = "/uploads/2018/01/22/descent-features-3-convenience.jpg"
 showonlyimage = false
 tags = []
