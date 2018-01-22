@@ -122,20 +122,6 @@ El World Travel Awards, desde 1993, destaca la excelencia de la industria y gala
     </item>
     
     <item>
-      <title>Video example</title>
-      <link>/post/video-example/</link>
-      <pubDate>Tue, 05 Dec 2017 16:41:04 +0000</pubDate>
-      
-      <guid>/post/video-example/</guid>
-      <description>Este es un ejemplo de cómo integrar vídeos en un post de forestry usando como referencia una url random de youtube tal como https://www.youtube.com/watch?v=6ZfuNTqbHE8.
-Por tanto, usaremos el siguiente shortcode, colocando youtube seguido del ID del vídeo, en cualquier parte del artículo.
-Por ejemplo:
-En el año 2016 Lima fue reconocido como la Capital Gastrónomica del Mundo
-y se verá de la siguiente manera cuando la página sea publicada.
-  </description>
-    </item>
-    
-    <item>
       <title>National Geographic eligió a Santiago como ciudad imperdible del 2018</title>
       <link>/post/national-geographic-eligio-a-santiago-como-ciudad-imperdible-del-2018/</link>
       <pubDate>Wed, 29 Nov 2017 15:45:26 +0000</pubDate>
