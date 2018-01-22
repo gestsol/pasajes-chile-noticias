@@ -7,6 +7,10 @@ tags = []
 title = "5 lugares para bucear en Chile"
 
 +++
+¿Quién dijo que en Chile no se puede realizar esta practica?
+
+Este país posee espectaculares escenarios para sumergirse en sus mares. Entre aguas frías y otras más templadas existe una enorme diversidad biológica. 
+
 #### **1.         Playa Blanca, Iquique**
 
 Es considerado como uno de los puntos icónicos del buceo en el país gracias a sus gratas temperaturas y buenas condiciones climáticas. Y por este mismo detalle en sus aguas cálidas se desarrolla exuberante florea y fauna. 
