@@ -1,8 +1,7 @@
 +++
 categories = []
-date = "2017-12-05T16:41:04Z"
-draft = true
-image = ""
+date = "2017-12-05T16:41:04+00:00"
+image = "/uploads/2018/01/22/descent-features-3-convenience.jpg"
 showonlyimage = false
 tags = []
 title = "Video example"
@@ -15,6 +14,8 @@ Por tanto, usaremos el siguiente shortcode, colocando youtube seguido del ID del
 Por ejemplo:
 
 ![](/uploads/2017/12/05/Captura de pantalla 2017-12-05 a la(s) 18.08.15.png)
+
+En el año 2016 Lima fue reconocido como la Capital Gastrónomica del Mundo
 
 y se verá de la siguiente manera cuando la página sea publicada.
 
