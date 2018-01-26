@@ -1,7 +1,7 @@
 +++
 categories = ["noticias"]
 date = "2018-01-26T11:21:01+00:00"
-image = "/uploads/2018/01/26/portadas_lanzamiento-04.jpg"
+image = "/uploads/2018/01/26/unnamed (4).jpg"
 showonlyimage = false
 tags = []
 title = "Disfruta el Club de Beneficios PasajesChile"
