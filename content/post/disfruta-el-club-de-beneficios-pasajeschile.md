@@ -23,8 +23,8 @@ Te dejamos la lista completa de todos los comercios y servicios que podrás apro
 
 #### **Para hacer disfrute de estos servicios solo debes llevar a cabo 3 pasos:**
 
-1\.     	Ingresa a [Club.pasajeschile.cl](https://club.pasajeschile.cl/#/cat-home) y busca tu descuento de acuerdo a las categorías de tu preferencia.
+**1.**     	Ingresa a [Club.pasajeschile.cl](https://club.pasajeschile.cl/#/cat-home) y busca tu descuento de acuerdo a las categorías de tu preferencia.
 
-2\.     	Muestra el cupón en tu celular o llévalo impreso a la tienda.
+**2.**     	Muestra el cupón en tu celular o llévalo impreso a la tienda.
 
-3\.     	Canjea tu descuento del Club de Beneficios y listo.
+**3.**     	Canjea tu descuento del Club de Beneficios y listo.
