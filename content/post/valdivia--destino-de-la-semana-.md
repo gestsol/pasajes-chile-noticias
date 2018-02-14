@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2018-02-12T17:56:48+00:00"
-image = "/uploads/2018/02/12/Valdivia.jpg"
+image = "/uploads/2018/02/14/Valdivia.png"
 showonlyimage = false
 tags = []
 title = "Valdivia: destino de la semana "
