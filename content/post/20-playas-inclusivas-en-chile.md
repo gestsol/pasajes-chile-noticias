@@ -21,8 +21,6 @@ Además, en varias de esas playas puedes hallar **novedosas sillas anfibias**; d
 
 Y también **plazas y juegos infantiles con pisos de caucho** que agilizan el desplazamiento en sillas de ruedas, coches...
 
-![](/uploads/2018/02/22/Playa-inclusiva-Quillón.-Foto-Soy-Chillán-min-1.jpg)
-
 **¿Cuáles playas inclusivas podemos disfrutar?**
 
 * Playa El Laucho, **Arica.**
