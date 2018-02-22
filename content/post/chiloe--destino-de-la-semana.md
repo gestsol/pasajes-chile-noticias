@@ -1,7 +1,6 @@
 +++
 categories = ["Tips"]
 date = "2018-02-22T10:10:23+00:00"
-draft = true
 image = "/uploads/2018/02/22/Valdivia (2).png"
 showonlyimage = false
 tags = []
