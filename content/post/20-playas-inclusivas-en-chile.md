@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Noticias"]
 date = "2018-02-22T18:17:38+00:00"
 image = "/uploads/2018/02/22/verano inclusivo-min.jpg"
 showonlyimage = false
@@ -7,7 +7,7 @@ tags = []
 title = "20 playas inclusivas en Chile"
 
 +++
-#### Antes miles de chilenos, en situación de discapacidad, no podían disfrutar de las playas
+#### Antes, miles de chilenos en situación de discapacidad no podían disfrutar de las playas
 
 Hoy día existen **más de 15 playas que poseen mejoras para las personas** con dificultad de movimiento y que estas puedan disfrutar de ellas sin obstáculos. ¿Qué tal?
 
