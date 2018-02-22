@@ -13,7 +13,7 @@ title = "Chiloé: destino de la semana"
 
 Es la **segunda isla más grande de América del Sur** con tan sólo cinco islas sin habitar de las cuarenta que la conforman.
 
-Chiloé es una tierra de mitos, leyendas, tradiciones y una gastronomía exquisita. En Chiloé descubrirás pintorescos palafitos que son coloridas casas construidas sobre el agua con troncos de LUMA (madera de un árbol), iglesias centenarias que son propiedad de la UNESCO, etc. 
+Chiloé es una tierra de mitos, leyendas, tradiciones y una gastronomía exquisita. En Chiloé descubrirás **pintorescos palafitos** que son coloridas casas construidas sobre el agua con troncos de LUMA (madera de un árbol), **iglesias centenarias** que son propiedad de la **UNESCO**, etc. 
 
 No dejes de visitar y explorar este mítico territorio. Además, **¿cómo no probar el curanto?** Su plato tradicional compuesto de mariscos y otros ingredientes típicos, cocinados en un hoyo con piedras calientes y centenares de coloridas papas del lugar.
 
