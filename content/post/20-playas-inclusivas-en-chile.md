@@ -15,7 +15,13 @@ Hoy día existen **más de 15 playas que poseen mejoras para las personas** con 
 
 Bueno, de acuerdo con el **Servicio Nacional de la Discapacidad** (Senadis) las playas inclusivas debe contar con elementos básicos como una **ruta de aproximación**, **conexión con paradas de buses**, **zona de estacionamientos accesibles** y señalizados, una **red de paseos que ingresen a la arena** y **rutas pavimentadas** en buen estado...
 
-Además, en varias de esas playas puedes hallar **novedosas sillas anfibias**; dispositivos con ruedas que pueden arrastrarse sin problemas sobre la arena, para facilitar el ingreso al agua sin hundirse. Y también **plazas y juegos infantiles con pisos de caucho** que agilizan el desplazamiento en sillas de ruedas, coches...
+Además, en varias de esas playas puedes hallar **novedosas sillas anfibias**; dispositivos con ruedas que pueden arrastrarse sin problemas sobre la arena, para facilitar el ingreso al agua sin hundirse. 
+
+![](/uploads/2018/02/22/2016-02-03-3876NFC7521-min.jpg)
+
+Y también **plazas y juegos infantiles con pisos de caucho** que agilizan el desplazamiento en sillas de ruedas, coches...
+
+![](/uploads/2018/02/22/Playa-inclusiva-Quillón.-Foto-Soy-Chillán-min-1.jpg)
 
 **¿Cuáles playas inclusivas podemos disfrutar?**
 
