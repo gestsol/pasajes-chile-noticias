@@ -42,6 +42,8 @@ Además, en varias de esas playas puedes hallar **novedosas sillas anfibias**; d
 * Playa Negra, **Pucón.**
 * Lago Llanquihue, **Frutillar.**
 
+¡Visita algunas de estas playas comprando tus pasajes de bus en [www.pasajeschile.cl](www.pasajeschile.cl )! 
+
 **Foto portada**, cortesía de Tribuna del Bío Bío
 
 **Fuentes:** [Biobiochile.cl](http://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2017/12/27/sillas-de-ruedas-y-bastones-incluye-primera-playa-inclusiva-de-la-region-de-valparaiso.shtml) / [Copec Chile](http://ww2.copec.cl/chiletur/posts/conoce-las-19-playas-inclusivas-a-lo-largo-de-chile) / [Teletón.cl ](https://www.teleton.cl/noticias/conoce-las-23-playas-inclusivas-que-existen-en-chile/)
