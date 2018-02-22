@@ -1,7 +1,7 @@
 +++
 categories = ["Tips"]
 date = "2018-02-22T10:10:23+00:00"
-image = "/uploads/2018/02/22/Valdivia (1)-min.jpg"
+image = "/uploads/2018/02/22/Valdivia (2)-min.jpg"
 showonlyimage = false
 tags = []
 title = "Chiloé: destino de la semana"
