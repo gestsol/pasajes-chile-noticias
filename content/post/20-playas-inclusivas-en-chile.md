@@ -3,7 +3,7 @@ categories = ["Noticias"]
 date = "2018-02-22T18:17:38+00:00"
 image = "/uploads/2018/02/22/verano inclusivo-min.jpg"
 showonlyimage = false
-tags = []
+tags = ["Playas ", "Chile ", "Inclusivas", "Verano"]
 title = "20 playas inclusivas en Chile"
 
 +++
