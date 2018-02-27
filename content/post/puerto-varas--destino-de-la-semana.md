@@ -16,4 +16,4 @@ Esta ciudad y comuna que se ubica en la Región de Los Lagos, a orillas del Lago
 
 Esta hermosa ciudad ribereña te espera para que pronto puedas disfrutar de la deliciosa **gastronomía con estilo europeo**, sus actividades al aire libre, sus floridos rosales y sus espectaculares vistas hacia los volcanes. 
 
-Por [María Alejandra Cortés](https://www.instagram.com/holaviajera/)
+Por [María Alejandra Cortés](http://bit.ly/2BUbMGO)
