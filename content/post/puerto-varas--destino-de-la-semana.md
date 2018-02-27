@@ -19,6 +19,6 @@ Esta ciudad y comuna que se ubica en la Región de Los Lagos, a orillas del Lago
 
 Esta hermosa ciudad ribereña te espera para que pronto puedas disfrutar de la deliciosa **gastronomía con estilo europeo**, sus actividades al aire libre, sus floridos rosales y sus espectaculares vistas hacia los volcanes.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhayqueveniralsur%2Fposts%2F10155973439092235%3A0&width=500" width="500" height="632" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMarcaChile.cl%2Fposts%2F1713560052002904%3A0&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 Por [María Alejandra Cortés](http://bit.ly/2BUbMGO)
