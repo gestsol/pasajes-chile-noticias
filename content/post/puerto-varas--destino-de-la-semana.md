@@ -15,3 +15,5 @@ Conocida como la **Ciudad de las Rosas y los Volcanes**, Puerto Varas no solo es
 Esta ciudad y comuna que se ubica en la Región de Los Lagos, a orillas del Lago Llanquihue, cuenta con la presencia de **colonos alemanes** que llegaron a la zona durante los años 1852 y 1853. Debido a esto, es imprescindible disfrutar de su **Zona Típica** donde puedes apreciar el patrimonio arquitectónico con influencia alemana. 
 
 Esta hermosa ciudad ribereña te espera para que pronto puedas disfrutar de la deliciosa **gastronomía con estilo europeo**, sus actividades al aire libre, sus floridos rosales y sus espectaculares vistas hacia los volcanes. 
+
+Por [María Alejandra Cortés](https://www.instagram.com/holaviajera/)
