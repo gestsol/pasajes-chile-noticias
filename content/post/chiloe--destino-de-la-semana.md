@@ -34,3 +34,5 @@ No importa cuándo vayas o cuantas veces las visites... **Chiloé siempre estar�
 * Senda Darwin
 * Pingüineras
 * Parque Nacional Chiloé
+
+Por [María Alejandra Cortés](http://bit.ly/2BUbMGO)
