@@ -37,6 +37,8 @@ Si deseas más información échale un vistazo a este post:
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Requisitos para el ingreso y salida de menores de edad a Chile <a href="https://t.co/TXeUkQMWOj">https://t.co/TXeUkQMWOj</a> <a href="https://t.co/vIgeg1dMtC">pic.twitter.com/vIgeg1dMtC</a></p>— Depto. Extranjería (@DptoExtranjeria) <a href="https://twitter.com/DptoExtranjeria/status/968576471810879488?ref_src=twsrc%5Etfw">27 de febrero de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+#### Si deseas viajar a Chile desde **Mendoza (Argentina) o Lima (Perú)** no dudes en visitar [**www.pasajeschile.cl**]() 
+
 #### **Para + información** contacta al call center de Extranjería chilena: 600 486 3000 o al 2 323 93 100 / Horarios: Lunes a viernes de 9:00 a 17:00 horas. 
 
 Por: [María Alejandra Cortés ](http://bit.ly/2BUbMGO)
