@@ -39,8 +39,8 @@ Si deseas más información échale un vistazo a este post:
 
 #### Si deseas viajar a Chile desde **Mendoza (Argentina) o Lima (Perú)** no dudes en visitar [**www.pasajeschile.cl**]()
 
+#### Si deseas ver qué países poseen, o no, acuerdos diplomáticos con Chile [revista esta lista](https://www.viajejet.com/consejos-documentacion-y-requisitos-para-viajar-a-chile/)
+
 #### **Para + información** contacta al call center de Extranjería chilena: 600 486 3000 o al 2 323 93 100 / Horarios: Lunes a viernes de 9:00 a 17:00 horas.
 
 Por: [María Alejandra Cortés ](http://bit.ly/2BUbMGO)
-
-Con info de [requisitos-para.com]()
