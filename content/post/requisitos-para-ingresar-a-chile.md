@@ -44,3 +44,5 @@ Si deseas más información échale un vistazo a este post:
 #### **Para + información** contacta al call center de Extranjería chilena: 600 486 3000 o al 2 323 93 100 / Horarios: Lunes a viernes de 9:00 a 17:00 horas.
 
 Por: [María Alejandra Cortés ](http://bit.ly/2BUbMGO)
+
+Con info del minrel.gob.cl & viajejet.com
