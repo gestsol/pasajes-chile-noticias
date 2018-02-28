@@ -4,7 +4,7 @@ date = "2018-02-28T10:11:38+00:00"
 image = "/uploads/2018/02/28/RequisitosBirthdayMy Love.jpg"
 showonlyimage = false
 tags = ["que piden para entrar a Chile"]
-title = "Requisitos para ingresar en bus a Chile"
+title = "¿Qué necesito para ingresar en bus a Chile?"
 
 +++
 #### **¿Qué debo tener en cuenta para ingresar como turista a Chile?**
