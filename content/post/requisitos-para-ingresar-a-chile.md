@@ -10,7 +10,7 @@ title = "¿Qué necesito para ingresar en bus a Chile?"
 #### **¿Qué debo tener en cuenta para ingresar como turista a Chile?**
 
 * Presentar a la Policía Internacional (migración o aduana) sus **documentos de identificación**: ya sea **cédula de identidad** o **pasaporte**; y **visa estampada (dependiendo del país de procedencia)**.
-* Los ciudadanos de [**Argentina**, **Perú, Bolivia, Colombia, Uruguay, Paraguay, Brasil** y \*\*Ecuador \*\*](https://minrel.gob.cl/las-americas/minrel/2010-06-15/100334.html)pueden ingresar a Chile presentando SOLO **su cédula de identidad** o documentos equivalentes.
+* Los ciudadanos de [**Argentina**, **Perú, Bolivia, Colombia, Uruguay, Paraguay, Brasil** y \*Ecuador \*](https://minrel.gob.cl/las-americas/minrel/2010-06-15/100334.html)pueden ingresar a Chile presentando SOLO **su cédula de identidad** o documentos equivalentes.
 * Los ciudadanos que sí requieren pasaporte se detallan en la siguiente [lista de países de **America Central y del Sur**](https://minrel.gob.cl/las-americas/minrel/2010-06-15/100334.html), expuesta por el Ministerio de Relaciones Exteriores de Chile. _Haz clic en el link._
 * Por otro lado, al momento de pasar migración, los agentes de la División de Extranjería y Policía internacional de la PDI (Policía de Investigaciones de Chile) pueden hacer **preguntas de rigor** como:
 * **A qué viene** a Chile
